@@ -1,0 +1,778 @@
+{
+    "project": "NMMC Multitemporal LULC and Ecological Study",
+    "raster_files": [
+        {
+            "file": "NMMC_Optical_Indices_1994.tif",
+            "year": 1994,
+            "type": "optical",
+            "exists": true,
+            "valid": true,
+            "errors": [],
+            "warnings": [],
+            "width": 294,
+            "height": 754,
+            "bands": 5,
+            "crs": "EPSG:32643",
+            "resolution": [
+                30.0,
+                30.0
+            ],
+            "dtype": [
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32"
+            ],
+            "nodata": -9999.0,
+            "bounds": [
+                286170.0,
+                2100720.0,
+                294990.0,
+                2123340.0
+            ],
+            "transform": [
+                30.0,
+                0.0,
+                286170.0,
+                0.0,
+                -30.0,
+                2123340.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "band_descriptions": [
+                "NDVI",
+                "NDBI",
+                "NDMI",
+                "NDWI",
+                "MNDWI"
+            ],
+            "size_mb": 4.159,
+            "band_statistics": [
+                {
+                    "band": "NDVI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.36684519052505493,
+                    "max": 0.6895371079444885,
+                    "mean": 0.17155992984771729,
+                    "std_dev": 0.1476059854030609
+                },
+                {
+                    "band": "NDBI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.7164525389671326,
+                    "max": 0.2776413559913635,
+                    "mean": -0.026230813935399055,
+                    "std_dev": 0.168512761592865
+                },
+                {
+                    "band": "NDMI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.2776413559913635,
+                    "max": 0.7164525389671326,
+                    "mean": 0.026230813935399055,
+                    "std_dev": 0.168512761592865
+                },
+                {
+                    "band": "NDWI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.6353532671928406,
+                    "max": 0.3756071627140045,
+                    "mean": -0.2137097865343094,
+                    "std_dev": 0.148124098777771
+                },
+                {
+                    "band": "MNDWI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.5192503929138184,
+                    "max": 0.7898074984550476,
+                    "mean": -0.18871521949768066,
+                    "std_dev": 0.24625377357006073
+                }
+            ],
+            "valid_pixel_counts": [
+                137891,
+                137891,
+                137891,
+                137891,
+                137891
+            ],
+            "ndbi_ndmi_max_abs_sum": 0.0
+        },
+        {
+            "file": "NMMC_Thermal_Indicators_1994.tif",
+            "year": 1994,
+            "type": "thermal",
+            "exists": true,
+            "valid": true,
+            "errors": [],
+            "warnings": [],
+            "width": 75,
+            "height": 189,
+            "bands": 2,
+            "crs": "EPSG:32643",
+            "resolution": [
+                120.0,
+                120.0
+            ],
+            "dtype": [
+                "float32",
+                "float32"
+            ],
+            "nodata": -9999.0,
+            "bounds": [
+                286080.0,
+                2100720.0,
+                295080.0,
+                2123400.0
+            ],
+            "transform": [
+                120.0,
+                0.0,
+                286080.0,
+                0.0,
+                -120.0,
+                2123400.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "band_descriptions": [
+                "LST_C",
+                "UTFVI"
+            ],
+            "size_mb": 0.084,
+            "band_statistics": [
+                {
+                    "band": "LST_C",
+                    "valid_pixels": 8860,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 5315,
+                    "min": 23.47941017150879,
+                    "max": 46.90652084350586,
+                    "mean": 33.509578704833984,
+                    "std_dev": 3.930426836013794
+                },
+                {
+                    "band": "UTFVI",
+                    "valid_pixels": 8860,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 5315,
+                    "min": -0.03286543861031532,
+                    "max": 0.043516628444194794,
+                    "mean": -0.00016294437227770686,
+                    "std_dev": 0.012814817950129509
+                }
+            ],
+            "valid_pixel_counts": [
+                8860,
+                8860
+            ]
+        },
+        {
+            "file": "NMMC_Optical_Indices_2004.tif",
+            "year": 2004,
+            "type": "optical",
+            "exists": true,
+            "valid": true,
+            "errors": [],
+            "warnings": [
+                "NDBI: 1 valid pixels outside [-1, 1]. Review denominator and reflectance.",
+                "NDMI: 1 valid pixels outside [-1, 1]. Review denominator and reflectance.",
+                "MNDWI: 1 valid pixels outside [-1, 1]. Review denominator and reflectance."
+            ],
+            "width": 294,
+            "height": 754,
+            "bands": 5,
+            "crs": "EPSG:32643",
+            "resolution": [
+                30.0,
+                30.0
+            ],
+            "dtype": [
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32"
+            ],
+            "nodata": -9999.0,
+            "bounds": [
+                286170.0,
+                2100720.0,
+                294990.0,
+                2123340.0
+            ],
+            "transform": [
+                30.0,
+                0.0,
+                286170.0,
+                0.0,
+                -30.0,
+                2123340.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "band_descriptions": [
+                "NDVI",
+                "NDBI",
+                "NDMI",
+                "NDWI",
+                "MNDWI"
+            ],
+            "size_mb": 4.17,
+            "band_statistics": [
+                {
+                    "band": "NDVI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.45367753505706787,
+                    "max": 0.7336257696151733,
+                    "mean": 0.15338845551013947,
+                    "std_dev": 0.17081470787525177
+                },
+                {
+                    "band": "NDBI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -1.0016480684280396,
+                    "max": 0.2575215995311737,
+                    "mean": -0.05812647566199303,
+                    "std_dev": 0.1802952140569687
+                },
+                {
+                    "band": "NDMI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.2575215995311737,
+                    "max": 1.0016480684280396,
+                    "mean": 0.05812647566199303,
+                    "std_dev": 0.1802952140569687
+                },
+                {
+                    "band": "NDWI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.6762669682502747,
+                    "max": 0.5463021397590637,
+                    "mean": -0.1976015567779541,
+                    "std_dev": 0.18050621449947357
+                },
+                {
+                    "band": "MNDWI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.5592498779296875,
+                    "max": 1.0007487535476685,
+                    "mean": -0.14623335003852844,
+                    "std_dev": 0.2966432273387909
+                }
+            ],
+            "valid_pixel_counts": [
+                137891,
+                137891,
+                137891,
+                137891,
+                137891
+            ],
+            "ndbi_ndmi_max_abs_sum": 0.0
+        },
+        {
+            "file": "NMMC_Thermal_Indicators_2004.tif",
+            "year": 2004,
+            "type": "thermal",
+            "exists": true,
+            "valid": true,
+            "errors": [],
+            "warnings": [],
+            "width": 75,
+            "height": 189,
+            "bands": 2,
+            "crs": "EPSG:32643",
+            "resolution": [
+                120.0,
+                120.0
+            ],
+            "dtype": [
+                "float32",
+                "float32"
+            ],
+            "nodata": -9999.0,
+            "bounds": [
+                286080.0,
+                2100720.0,
+                295080.0,
+                2123400.0
+            ],
+            "transform": [
+                120.0,
+                0.0,
+                286080.0,
+                0.0,
+                -120.0,
+                2123400.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "band_descriptions": [
+                "LST_C",
+                "UTFVI"
+            ],
+            "size_mb": 0.087,
+            "band_statistics": [
+                {
+                    "band": "LST_C",
+                    "valid_pixels": 8860,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 5315,
+                    "min": 23.173498153686523,
+                    "max": 50.53474807739258,
+                    "mean": 35.22401428222656,
+                    "std_dev": 5.361755847930908
+                },
+                {
+                    "band": "UTFVI",
+                    "valid_pixels": 8860,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 5315,
+                    "min": -0.039337124675512314,
+                    "max": 0.04936639219522476,
+                    "mean": -0.00027007496100850403,
+                    "std_dev": 0.017382487654685974
+                }
+            ],
+            "valid_pixel_counts": [
+                8860,
+                8860
+            ]
+        },
+        {
+            "file": "NMMC_Optical_Indices_2014.tif",
+            "year": 2014,
+            "type": "optical",
+            "exists": true,
+            "valid": true,
+            "errors": [],
+            "warnings": [],
+            "width": 294,
+            "height": 754,
+            "bands": 5,
+            "crs": "EPSG:32643",
+            "resolution": [
+                30.0,
+                30.0
+            ],
+            "dtype": [
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32"
+            ],
+            "nodata": -9999.0,
+            "bounds": [
+                286170.0,
+                2100720.0,
+                294990.0,
+                2123340.0
+            ],
+            "transform": [
+                30.0,
+                0.0,
+                286170.0,
+                0.0,
+                -30.0,
+                2123340.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "band_descriptions": [
+                "NDVI",
+                "NDBI",
+                "NDMI",
+                "NDWI",
+                "MNDWI"
+            ],
+            "size_mb": 4.238,
+            "band_statistics": [
+                {
+                    "band": "NDVI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.5386039018630981,
+                    "max": 0.7644078135490417,
+                    "mean": 0.2675568163394928,
+                    "std_dev": 0.20937563478946686
+                },
+                {
+                    "band": "NDBI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.6187784671783447,
+                    "max": 0.2716808021068573,
+                    "mean": -0.07513312995433807,
+                    "std_dev": 0.15388481318950653
+                },
+                {
+                    "band": "NDMI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.2716808021068573,
+                    "max": 0.6187784671783447,
+                    "mean": 0.07513312995433807,
+                    "std_dev": 0.15388481318950653
+                },
+                {
+                    "band": "NDWI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.6983228325843811,
+                    "max": 0.5934377312660217,
+                    "mean": -0.3004526197910309,
+                    "std_dev": 0.2019239366054535
+                },
+                {
+                    "band": "MNDWI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.5677503347396851,
+                    "max": 0.7595257759094238,
+                    "mean": -0.2356199324131012,
+                    "std_dev": 0.2439587116241455
+                }
+            ],
+            "valid_pixel_counts": [
+                137891,
+                137891,
+                137891,
+                137891,
+                137891
+            ],
+            "ndbi_ndmi_max_abs_sum": 0.0
+        },
+        {
+            "file": "NMMC_Thermal_Indicators_2014.tif",
+            "year": 2014,
+            "type": "thermal",
+            "exists": true,
+            "valid": true,
+            "errors": [],
+            "warnings": [],
+            "width": 75,
+            "height": 189,
+            "bands": 2,
+            "crs": "EPSG:32643",
+            "resolution": [
+                120.0,
+                120.0
+            ],
+            "dtype": [
+                "float32",
+                "float32"
+            ],
+            "nodata": -9999.0,
+            "bounds": [
+                286080.0,
+                2100720.0,
+                295080.0,
+                2123400.0
+            ],
+            "transform": [
+                120.0,
+                0.0,
+                286080.0,
+                0.0,
+                -120.0,
+                2123400.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "band_descriptions": [
+                "LST_C",
+                "UTFVI"
+            ],
+            "size_mb": 0.085,
+            "band_statistics": [
+                {
+                    "band": "LST_C",
+                    "valid_pixels": 8860,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 5315,
+                    "min": 29.37207794189453,
+                    "max": 54.2159538269043,
+                    "mean": 40.27655029296875,
+                    "std_dev": 5.339742183685303
+                },
+                {
+                    "band": "UTFVI",
+                    "valid_pixels": 8860,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 5315,
+                    "min": -0.035081930458545685,
+                    "max": 0.04415958374738693,
+                    "mean": -0.0003012396628037095,
+                    "std_dev": 0.017031529918313026
+                }
+            ],
+            "valid_pixel_counts": [
+                8860,
+                8860
+            ]
+        },
+        {
+            "file": "NMMC_Optical_Indices_2024.tif",
+            "year": 2024,
+            "type": "optical",
+            "exists": true,
+            "valid": true,
+            "errors": [],
+            "warnings": [],
+            "width": 294,
+            "height": 754,
+            "bands": 5,
+            "crs": "EPSG:32643",
+            "resolution": [
+                30.0,
+                30.0
+            ],
+            "dtype": [
+                "float32",
+                "float32",
+                "float32",
+                "float32",
+                "float32"
+            ],
+            "nodata": -9999.0,
+            "bounds": [
+                286170.0,
+                2100720.0,
+                294990.0,
+                2123340.0
+            ],
+            "transform": [
+                30.0,
+                0.0,
+                286170.0,
+                0.0,
+                -30.0,
+                2123340.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "band_descriptions": [
+                "NDVI",
+                "NDBI",
+                "NDMI",
+                "NDWI",
+                "MNDWI"
+            ],
+            "size_mb": 4.229,
+            "band_statistics": [
+                {
+                    "band": "NDVI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.4601633548736572,
+                    "max": 0.7794716358184814,
+                    "mean": 0.3019563555717468,
+                    "std_dev": 0.19008485972881317
+                },
+                {
+                    "band": "NDBI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.5693191289901733,
+                    "max": 0.40446779131889343,
+                    "mean": -0.08879627287387848,
+                    "std_dev": 0.1473817527294159
+                },
+                {
+                    "band": "NDMI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.40446779131889343,
+                    "max": 0.5693191289901733,
+                    "mean": 0.08879627287387848,
+                    "std_dev": 0.1473817527294159
+                },
+                {
+                    "band": "NDWI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.6944299936294556,
+                    "max": 0.4881664514541626,
+                    "mean": -0.3174892067909241,
+                    "std_dev": 0.1791488379240036
+                },
+                {
+                    "band": "MNDWI",
+                    "valid_pixels": 137891,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 83785,
+                    "min": -0.5488854050636292,
+                    "max": 0.6758570075035095,
+                    "mean": -0.23894603550434113,
+                    "std_dev": 0.21677027642726898
+                }
+            ],
+            "valid_pixel_counts": [
+                137891,
+                137891,
+                137891,
+                137891,
+                137891
+            ],
+            "ndbi_ndmi_max_abs_sum": 0.0
+        },
+        {
+            "file": "NMMC_Thermal_Indicators_2024.tif",
+            "year": 2024,
+            "type": "thermal",
+            "exists": true,
+            "valid": true,
+            "errors": [],
+            "warnings": [],
+            "width": 75,
+            "height": 189,
+            "bands": 2,
+            "crs": "EPSG:32643",
+            "resolution": [
+                120.0,
+                120.0
+            ],
+            "dtype": [
+                "float32",
+                "float32"
+            ],
+            "nodata": -9999.0,
+            "bounds": [
+                286080.0,
+                2100720.0,
+                295080.0,
+                2123400.0
+            ],
+            "transform": [
+                120.0,
+                0.0,
+                286080.0,
+                0.0,
+                -120.0,
+                2123400.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "band_descriptions": [
+                "LST_C",
+                "UTFVI"
+            ],
+            "size_mb": 0.084,
+            "band_statistics": [
+                {
+                    "band": "LST_C",
+                    "valid_pixels": 8860,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 5315,
+                    "min": 26.068561553955078,
+                    "max": 47.50809097290039,
+                    "mean": 36.43913650512695,
+                    "std_dev": 4.204038143157959
+                },
+                {
+                    "band": "UTFVI",
+                    "valid_pixels": 8860,
+                    "non_finite_valid_pixels": 0,
+                    "nodata_pixels": 5315,
+                    "min": -0.0337180532515049,
+                    "max": 0.03551772981882095,
+                    "mean": -0.00022781880397815257,
+                    "std_dev": 0.013576317578554153
+                }
+            ],
+            "valid_pixel_counts": [
+                8860,
+                8860
+            ]
+        }
+    ],
+    "statistics_csv": {
+        "file": "NMMC_Annual_Ecological_Statistics.csv",
+        "exists": true,
+        "valid": true,
+        "errors": [],
+        "warnings": [],
+        "rows": 4,
+        "columns": [
+            "year",
+            "LST_C_mean",
+            "LST_C_min",
+            "LST_C_max",
+            "LST_C_stdDev",
+            "LST_C_p5",
+            "LST_C_p50",
+            "LST_C_p95",
+            "NDVI_mean",
+            "NDVI_stdDev",
+            "NDBI_mean",
+            "NDBI_stdDev",
+            "NDMI_mean",
+            "NDMI_stdDev",
+            "NDWI_mean",
+            "NDWI_stdDev",
+            "MNDWI_mean",
+            "MNDWI_stdDev",
+            "UTFVI_mean",
+            "UTFVI_min",
+            "UTFVI_max",
+            "UTFVI_stdDev"
+        ],
+        "missing_values": 0,
+        "non_finite_values": 0,
+        "years": [
+            1994,
+            2004,
+            2014,
+            2024
+        ],
+        "size_kb": 1.86
+    },
+    "consistency_errors": [],
+    "summary": {
+        "raster_files_expected": 8,
+        "raster_files_passed": 8,
+        "csv_valid": true,
+        "total_errors": 0,
+        "overall_pass": true
+    }
+}

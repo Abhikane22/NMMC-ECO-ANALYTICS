@@ -1,0 +1,44 @@
+{
+    "LULC": {
+        "status": "PASS",
+        "years_checked": [
+            1994,
+            2004,
+            2014,
+            2024
+        ],
+        "reference_crs": "EPSG:32643",
+        "reference_dimensions": [
+            294,
+            754
+        ]
+    },
+    "OPTICAL": {
+        "status": "PASS",
+        "years_checked": [
+            1994,
+            2004,
+            2014,
+            2024
+        ],
+        "reference_crs": "EPSG:32643",
+        "reference_dimensions": [
+            294,
+            754
+        ]
+    },
+    "THERMAL": {
+        "status": "PASS",
+        "years_checked": [
+            1994,
+            2004,
+            2014,
+            2024
+        ],
+        "reference_crs": "EPSG:32643",
+        "reference_dimensions": [
+            75,
+            189
+        ]
+    }
+}

@@ -1,0 +1,180 @@
+category,test,status,message
+Raster,1994_valid_pixels,PASS,"137,891 valid pixels."
+Raster,1994_class_codes,PASS,"Observed classes: [0, 1, 2, 3, 4]"
+Raster,1994_nodata,PASS,NoData = 255.
+Raster,2004_valid_pixels,PASS,"137,891 valid pixels."
+Raster,2004_class_codes,PASS,"Observed classes: [0, 1, 2, 3, 4]"
+Raster,2004_nodata,PASS,NoData = 255.
+Alignment,2004_CRS,PASS,Matches reference grid.
+Alignment,2004_Transform,PASS,Matches reference grid.
+Alignment,2004_Width,PASS,Matches reference grid.
+Alignment,2004_Height,PASS,Matches reference grid.
+Alignment,2004_Bounds,PASS,Matches reference grid.
+Raster,2014_valid_pixels,PASS,"137,891 valid pixels."
+Raster,2014_class_codes,PASS,"Observed classes: [0, 1, 2, 3, 4]"
+Raster,2014_nodata,PASS,NoData = 255.
+Alignment,2014_CRS,PASS,Matches reference grid.
+Alignment,2014_Transform,PASS,Matches reference grid.
+Alignment,2014_Width,PASS,Matches reference grid.
+Alignment,2014_Height,PASS,Matches reference grid.
+Alignment,2014_Bounds,PASS,Matches reference grid.
+Raster,2024_valid_pixels,PASS,"137,891 valid pixels."
+Raster,2024_class_codes,PASS,"Observed classes: [0, 1, 2, 3, 4]"
+Raster,2024_nodata,PASS,NoData = 255.
+Alignment,2024_CRS,PASS,Matches reference grid.
+Alignment,2024_Transform,PASS,Matches reference grid.
+Alignment,2024_Width,PASS,Matches reference grid.
+Alignment,2024_Height,PASS,Matches reference grid.
+Alignment,2024_Bounds,PASS,Matches reference grid.
+Annual LULC,report_read,PASS,Loaded 20 records.
+Annual LULC,1994_class_records,PASS,All five class records present.
+Annual LULC,1994_percentage_sum,PASS,Percentage sum = 100.0000%.
+Annual LULC,1994_class_0_pixel_count,PASS,"Raster=32851, report=32851."
+Annual LULC,1994_class_1_pixel_count,PASS,"Raster=35370, report=35370."
+Annual LULC,1994_class_2_pixel_count,PASS,"Raster=13668, report=13668."
+Annual LULC,1994_class_3_pixel_count,PASS,"Raster=52692, report=52692."
+Annual LULC,1994_class_4_pixel_count,PASS,"Raster=3310, report=3310."
+Annual LULC,2004_class_records,PASS,All five class records present.
+Annual LULC,2004_percentage_sum,PASS,Percentage sum = 100.0000%.
+Annual LULC,2004_class_0_pixel_count,PASS,"Raster=34413, report=34413."
+Annual LULC,2004_class_1_pixel_count,PASS,"Raster=27335, report=27335."
+Annual LULC,2004_class_2_pixel_count,PASS,"Raster=29362, report=29362."
+Annual LULC,2004_class_3_pixel_count,PASS,"Raster=43990, report=43990."
+Annual LULC,2004_class_4_pixel_count,PASS,"Raster=2791, report=2791."
+Annual LULC,2014_class_records,PASS,All five class records present.
+Annual LULC,2014_percentage_sum,PASS,Percentage sum = 100.0000%.
+Annual LULC,2014_class_0_pixel_count,PASS,"Raster=19840, report=19840."
+Annual LULC,2014_class_1_pixel_count,PASS,"Raster=53426, report=53426."
+Annual LULC,2014_class_2_pixel_count,PASS,"Raster=24861, report=24861."
+Annual LULC,2014_class_3_pixel_count,PASS,"Raster=23405, report=23405."
+Annual LULC,2014_class_4_pixel_count,PASS,"Raster=16359, report=16359."
+Annual LULC,2024_class_records,PASS,All five class records present.
+Annual LULC,2024_percentage_sum,PASS,Percentage sum = 100.0000%.
+Annual LULC,2024_class_0_pixel_count,PASS,"Raster=18856, report=18856."
+Annual LULC,2024_class_1_pixel_count,PASS,"Raster=51493, report=51493."
+Annual LULC,2024_class_2_pixel_count,PASS,"Raster=35268, report=35268."
+Annual LULC,2024_class_3_pixel_count,PASS,"Raster=13775, report=13775."
+Annual LULC,2024_class_4_pixel_count,PASS,"Raster=18499, report=18499."
+Transitions,report_read,PASS,Loaded 100 transition records.
+Transitions,1994_2004_common_pixels,PASS,"Raster=137,891, transition report=137,891."
+Transitions,1994_2004_0_to_0,PASS,"Raster=28474, report=28474."
+Transitions,1994_2004_0_to_1,PASS,"Raster=710, report=710."
+Transitions,1994_2004_0_to_2,PASS,"Raster=552, report=552."
+Transitions,1994_2004_0_to_3,PASS,"Raster=1677, report=1677."
+Transitions,1994_2004_0_to_4,PASS,"Raster=1438, report=1438."
+Transitions,1994_2004_1_to_0,PASS,"Raster=1033, report=1033."
+Transitions,1994_2004_1_to_1,PASS,"Raster=20669, report=20669."
+Transitions,1994_2004_1_to_2,PASS,"Raster=7745, report=7745."
+Transitions,1994_2004_1_to_3,PASS,"Raster=5661, report=5661."
+Transitions,1994_2004_1_to_4,PASS,"Raster=262, report=262."
+Transitions,1994_2004_2_to_0,PASS,"Raster=389, report=389."
+Transitions,1994_2004_2_to_1,PASS,"Raster=1609, report=1609."
+Transitions,1994_2004_2_to_2,PASS,"Raster=7324, report=7324."
+Transitions,1994_2004_2_to_3,PASS,"Raster=4329, report=4329."
+Transitions,1994_2004_2_to_4,PASS,"Raster=17, report=17."
+Transitions,1994_2004_3_to_0,PASS,"Raster=3180, report=3180."
+Transitions,1994_2004_3_to_1,PASS,"Raster=4009, report=4009."
+Transitions,1994_2004_3_to_2,PASS,"Raster=13650, report=13650."
+Transitions,1994_2004_3_to_3,PASS,"Raster=31830, report=31830."
+Transitions,1994_2004_3_to_4,PASS,"Raster=23, report=23."
+Transitions,1994_2004_4_to_0,PASS,"Raster=1337, report=1337."
+Transitions,1994_2004_4_to_1,PASS,"Raster=338, report=338."
+Transitions,1994_2004_4_to_2,PASS,"Raster=91, report=91."
+Transitions,1994_2004_4_to_3,PASS,"Raster=493, report=493."
+Transitions,1994_2004_4_to_4,PASS,"Raster=1051, report=1051."
+Transitions,1994_2004_row_sums,PASS,Transition rows match source-class pixel counts.
+Transitions,1994_2004_column_sums,PASS,Transition columns match destination-class pixel counts.
+Transitions,2004_2014_common_pixels,PASS,"Raster=137,891, transition report=137,891."
+Transitions,2004_2014_0_to_0,PASS,"Raster=18963, report=18963."
+Transitions,2004_2014_0_to_1,PASS,"Raster=1807, report=1807."
+Transitions,2004_2014_0_to_2,PASS,"Raster=336, report=336."
+Transitions,2004_2014_0_to_3,PASS,"Raster=556, report=556."
+Transitions,2004_2014_0_to_4,PASS,"Raster=12751, report=12751."
+Transitions,2004_2014_1_to_0,PASS,"Raster=97, report=97."
+Transitions,2004_2014_1_to_1,PASS,"Raster=23511, report=23511."
+Transitions,2004_2014_1_to_2,PASS,"Raster=1513, report=1513."
+Transitions,2004_2014_1_to_3,PASS,"Raster=1675, report=1675."
+Transitions,2004_2014_1_to_4,PASS,"Raster=539, report=539."
+Transitions,2004_2014_2_to_0,PASS,"Raster=158, report=158."
+Transitions,2004_2014_2_to_1,PASS,"Raster=13680, report=13680."
+Transitions,2004_2014_2_to_2,PASS,"Raster=10229, report=10229."
+Transitions,2004_2014_2_to_3,PASS,"Raster=5052, report=5052."
+Transitions,2004_2014_2_to_4,PASS,"Raster=243, report=243."
+Transitions,2004_2014_3_to_0,PASS,"Raster=617, report=617."
+Transitions,2004_2014_3_to_1,PASS,"Raster=14115, report=14115."
+Transitions,2004_2014_3_to_2,PASS,"Raster=12772, report=12772."
+Transitions,2004_2014_3_to_3,PASS,"Raster=16118, report=16118."
+Transitions,2004_2014_3_to_4,PASS,"Raster=368, report=368."
+Transitions,2004_2014_4_to_0,PASS,"Raster=5, report=5."
+Transitions,2004_2014_4_to_1,PASS,"Raster=313, report=313."
+Transitions,2004_2014_4_to_2,PASS,"Raster=11, report=11."
+Transitions,2004_2014_4_to_3,PASS,"Raster=4, report=4."
+Transitions,2004_2014_4_to_4,PASS,"Raster=2458, report=2458."
+Transitions,2004_2014_row_sums,PASS,Transition rows match source-class pixel counts.
+Transitions,2004_2014_column_sums,PASS,Transition columns match destination-class pixel counts.
+Transitions,2014_2024_common_pixels,PASS,"Raster=137,891, transition report=137,891."
+Transitions,2014_2024_0_to_0,PASS,"Raster=17831, report=17831."
+Transitions,2014_2024_0_to_1,PASS,"Raster=259, report=259."
+Transitions,2014_2024_0_to_2,PASS,"Raster=130, report=130."
+Transitions,2014_2024_0_to_3,PASS,"Raster=155, report=155."
+Transitions,2014_2024_0_to_4,PASS,"Raster=1465, report=1465."
+Transitions,2014_2024_1_to_0,PASS,"Raster=415, report=415."
+Transitions,2014_2024_1_to_1,PASS,"Raster=41084, report=41084."
+Transitions,2014_2024_1_to_2,PASS,"Raster=7670, report=7670."
+Transitions,2014_2024_1_to_3,PASS,"Raster=2869, report=2869."
+Transitions,2014_2024_1_to_4,PASS,"Raster=1388, report=1388."
+Transitions,2014_2024_2_to_0,PASS,"Raster=113, report=113."
+Transitions,2014_2024_2_to_1,PASS,"Raster=5360, report=5360."
+Transitions,2014_2024_2_to_2,PASS,"Raster=16478, report=16478."
+Transitions,2014_2024_2_to_3,PASS,"Raster=2848, report=2848."
+Transitions,2014_2024_2_to_4,PASS,"Raster=62, report=62."
+Transitions,2014_2024_3_to_0,PASS,"Raster=341, report=341."
+Transitions,2014_2024_3_to_1,PASS,"Raster=4193, report=4193."
+Transitions,2014_2024_3_to_2,PASS,"Raster=10959, report=10959."
+Transitions,2014_2024_3_to_3,PASS,"Raster=7890, report=7890."
+Transitions,2014_2024_3_to_4,PASS,"Raster=22, report=22."
+Transitions,2014_2024_4_to_0,PASS,"Raster=156, report=156."
+Transitions,2014_2024_4_to_1,PASS,"Raster=597, report=597."
+Transitions,2014_2024_4_to_2,PASS,"Raster=31, report=31."
+Transitions,2014_2024_4_to_3,PASS,"Raster=13, report=13."
+Transitions,2014_2024_4_to_4,PASS,"Raster=15562, report=15562."
+Transitions,2014_2024_row_sums,PASS,Transition rows match source-class pixel counts.
+Transitions,2014_2024_column_sums,PASS,Transition columns match destination-class pixel counts.
+Transitions,1994_2024_common_pixels,PASS,"Raster=137,891, transition report=137,891."
+Transitions,1994_2024_0_to_0,PASS,"Raster=17075, report=17075."
+Transitions,1994_2024_0_to_1,PASS,"Raster=2142, report=2142."
+Transitions,1994_2024_0_to_2,PASS,"Raster=558, report=558."
+Transitions,1994_2024_0_to_3,PASS,"Raster=511, report=511."
+Transitions,1994_2024_0_to_4,PASS,"Raster=12565, report=12565."
+Transitions,1994_2024_1_to_0,PASS,"Raster=212, report=212."
+Transitions,1994_2024_1_to_1,PASS,"Raster=26234, report=26234."
+Transitions,1994_2024_1_to_2,PASS,"Raster=5600, report=5600."
+Transitions,1994_2024_1_to_3,PASS,"Raster=2273, report=2273."
+Transitions,1994_2024_1_to_4,PASS,"Raster=1051, report=1051."
+Transitions,1994_2024_2_to_0,PASS,"Raster=79, report=79."
+Transitions,1994_2024_2_to_1,PASS,"Raster=4914, report=4914."
+Transitions,1994_2024_2_to_2,PASS,"Raster=6558, report=6558."
+Transitions,1994_2024_2_to_3,PASS,"Raster=1904, report=1904."
+Transitions,1994_2024_2_to_4,PASS,"Raster=213, report=213."
+Transitions,1994_2024_3_to_0,PASS,"Raster=1423, report=1423."
+Transitions,1994_2024_3_to_1,PASS,"Raster=17435, report=17435."
+Transitions,1994_2024_3_to_2,PASS,"Raster=22420, report=22420."
+Transitions,1994_2024_3_to_3,PASS,"Raster=8966, report=8966."
+Transitions,1994_2024_3_to_4,PASS,"Raster=2448, report=2448."
+Transitions,1994_2024_4_to_0,PASS,"Raster=67, report=67."
+Transitions,1994_2024_4_to_1,PASS,"Raster=768, report=768."
+Transitions,1994_2024_4_to_2,PASS,"Raster=132, report=132."
+Transitions,1994_2024_4_to_3,PASS,"Raster=121, report=121."
+Transitions,1994_2024_4_to_4,PASS,"Raster=2222, report=2222."
+Transitions,1994_2024_row_sums,PASS,Transition rows match source-class pixel counts.
+Transitions,1994_2024_column_sums,PASS,Transition columns match destination-class pixel counts.
+Gain/Loss,report_read,PASS,Loaded 20 records.
+Gain/Loss,gain_minus_loss,PASS,Gain - Loss equals Net Change.
+GEE Comparison,comparison_generated,PASS,Local and GEE area statistics compared.
+GEE Comparison,percentage_difference,INFO,Maximum class percentage difference: 0.2858 percentage points. Investigate grid and boundary-area methodology.
+Ecological,indicator_coverage,PASS,All seven ecological indicators present.
+Ecological,annual_record_count,PASS,Found 28 records; expected 28.
+Ecological,1994_NDBI_NDMI_relationship,WARNING,NDBI and NDMI means are near exact negatives.
+Ecological,2004_NDBI_NDMI_relationship,WARNING,NDBI and NDMI means are near exact negatives.
+Ecological,2014_NDBI_NDMI_relationship,WARNING,NDBI and NDMI means are near exact negatives.
+Ecological,2024_NDBI_NDMI_relationship,WARNING,NDBI and NDMI means are near exact negatives.
