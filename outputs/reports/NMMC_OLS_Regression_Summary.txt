@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           lst_change_c   R-squared:                       0.089
+Model:                            OLS   Adj. R-squared:                  0.063
+Method:                 Least Squares   F-statistic:                     5.124
+Date:                Mon, 02 Nov 2026   Prob (F-statistic):            0.00238
+Time:                        20:49:58   Log-Likelihood:                -228.12
+No. Observations:                 111   AIC:                             464.2
+Df Residuals:                     107   BIC:                             475.1
+Df Model:                           3                                         
+Covariance Type:                  HC3                                         
+=========================================================================================
+                            coef    std err          z      P>|z|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                     3.3223      0.239     13.916      0.000       2.854       3.790
+builtup_change_km2        0.4063      0.930      0.437      0.662      -1.416       2.229
+vegetation_change_km2    -0.9863      1.058     -0.932      0.351      -3.061       1.088
+wetland_change_km2       -1.9103      0.570     -3.349      0.001      -3.028      -0.792
+==============================================================================
+Omnibus:                        1.709   Durbin-Watson:                   1.191
+Prob(Omnibus):                  0.425   Jarque-Bera (JB):                1.272
+Skew:                           0.013   Prob(JB):                        0.529
+Kurtosis:                       3.524   Cond. No.                         7.54
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)

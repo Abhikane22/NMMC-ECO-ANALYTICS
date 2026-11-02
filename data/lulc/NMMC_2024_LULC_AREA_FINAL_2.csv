@@ -1,0 +1,6 @@
+system:index,area_km2,class_code,class_name,percentage,year,.geo
+0,16.304848878123963,0,Water,13.38852768421577,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,45.632615842890914,1,Vegetation,37.47066563342625,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,31.210202276375817,2,Built-up,25.627876733519933,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,12.2211195971134,3,Barren,10.035223219860415,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,16.413453116187554,4,Wetlands_including_mangroves,13.477706728977628,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"

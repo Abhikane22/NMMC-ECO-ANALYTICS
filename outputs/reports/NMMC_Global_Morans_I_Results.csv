@@ -1,0 +1,6 @@
+indicator,moran_i,expected_i,z_score,permutation_p_value,permutations,weight_method
+builtup_expansion_km2,0.12555258149681808,-0.00909090909090909,2.6594806781600617,0.008,999,"Queen contiguity, row-standardized"
+vegetation_loss_km2,0.11424431198818939,-0.00909090909090909,2.3583979165319575,0.025,999,"Queen contiguity, row-standardized"
+wetland_loss_km2,0.11598680990540597,-0.00909090909090909,2.329435106110211,0.025,999,"Queen contiguity, row-standardized"
+lst_increase_c,0.5642130774384387,-0.00909090909090909,9.816512909487148,0.001,999,"Queen contiguity, row-standardized"
+ndvi_decline,0.3184937647831549,-0.00909090909090909,5.757059454890902,0.001,999,"Queen contiguity, row-standardized"

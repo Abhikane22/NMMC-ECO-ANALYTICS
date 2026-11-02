@@ -1,0 +1,65 @@
+model_type,replacement_factor_pixels,weights,method,rho,pseudo_r2,aic,log_likelihood,warning_count,warning_messages,fit_success,max_parameter_difference,rho_difference,aic_difference,method_equivalent
+NORMALIZED_SAR,,Queen,full,0.6641967770542365,0.6797940000937389,363.6797184842476,-176.8398592421238,38.0,"The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | divide by zero encountered in det | invalid value encountered in det | overflow encountered in det",True,,,,
+NORMALIZED_SAR,,Queen,ord,0.6641967770531413,0.6797940000936279,363.6797184842476,-176.8398592421238,3.0,"Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed). | The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.",True,,,,
+NORMALIZED_SAR,,Queen,full_vs_ord,,,,,,,True,4.558575739110893e-12,1.095235013792717e-12,0.0,True
+NORMALIZED_SAR,,Rook,full,0.6605591948925607,0.6805058448612796,364.01890038792953,-177.00945019396477,38.0,"The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | divide by zero encountered in det | invalid value encountered in det | overflow encountered in det",True,,,,
+NORMALIZED_SAR,,Rook,ord,0.6605591948925582,0.6805058448612793,364.01890038792953,-177.00945019396477,3.0,"Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed). | The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.",True,,,,
+NORMALIZED_SAR,,Rook,full_vs_ord,,,,,,,True,1.021405182655144e-14,2.4424906541753444e-15,0.0,True
+ILR_SAR,0.5,Queen,full,0.5468320133452803,0.6796579052400376,360.28002591819865,-174.14001295909932,35.0,"The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | divide by zero encountered in det | invalid value encountered in det | overflow encountered in det",True,,,,
+ILR_SAR,0.5,Queen,ord,0.5468320133433375,0.6796579052398743,360.2800259181986,-174.1400129590993,3.0,"Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed). | The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.",True,,,,
+ILR_SAR,0.5,Queen,full_vs_ord,,,,,,,True,8.268496998198316e-12,1.9427792707915614e-12,5.684341886080802e-14,True
+ILR_SAR,0.5,Rook,full,0.543285255651935,0.6789107923448239,360.8885362195267,-174.44426810976336,35.0,"The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | divide by zero encountered in det | invalid value encountered in det | overflow encountered in det",True,,,,
+ILR_SAR,0.5,Rook,ord,0.5432852556531572,0.678910792344932,360.8885362195267,-174.44426810976336,3.0,"Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed). | The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.",True,,,,
+ILR_SAR,0.5,Rook,full_vs_ord,,,,,,,True,5.239808587020889e-12,1.2222445278098348e-12,0.0,True
+ILR_SAR,1.0,Queen,full,0.5627394449605846,0.6736690888950884,362.9482318531394,-175.4741159265697,35.0,"The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | divide by zero encountered in det | invalid value encountered in det | overflow encountered in det",True,,,,
+ILR_SAR,1.0,Queen,ord,0.5627394449828941,0.6736690888970663,362.9482318531394,-175.4741159265697,3.0,"Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed). | The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.",True,,,,
+ILR_SAR,1.0,Queen,full_vs_ord,,,,,,,True,9.471978756891986e-11,2.230948759063267e-11,0.0,True
+ILR_SAR,1.0,Rook,full,0.5593777145213301,0.6731843929718228,363.4983513707948,-175.7491756853974,35.0,"The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | divide by zero encountered in det | invalid value encountered in det | overflow encountered in det",True,,,,
+ILR_SAR,1.0,Rook,ord,0.5593777145088182,0.6731843929706571,363.4983513707948,-175.7491756853974,3.0,"Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed). | The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.",True,,,,
+ILR_SAR,1.0,Rook,full_vs_ord,,,,,,,True,5.349276577248929e-11,1.2511880420618127e-11,0.0,True
+ILR_SAR,2.0,Queen,full,0.578251284187475,0.6672473314801632,365.7503527231901,-176.87517636159504,38.0,"The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | divide by zero encountered in det | invalid value encountered in det | overflow encountered in det",True,,,,
+ILR_SAR,2.0,Queen,ord,0.5782512841784784,0.6672473314793255,365.7503527231901,-176.87517636159504,3.0,"Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed). | The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.",True,,,,
+ILR_SAR,2.0,Queen,full_vs_ord,,,,,,,True,3.8181457995278834e-11,8.996581257747494e-12,0.0,True
+ILR_SAR,2.0,Rook,full,0.5750408983343591,0.6669740965064868,366.263214340902,-177.131607170451,38.0,"The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | divide by zero encountered in det | invalid value encountered in det | overflow encountered in det",True,,,,
+ILR_SAR,2.0,Rook,ord,0.5750408983417348,0.666974096507208,366.263214340902,-177.131607170451,3.0,"Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed). | The inplace keyword in DataFrame.drop is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details. | The inplace keyword in DataFrame.sort_values is deprecated and will be removed in a future version (PDEP-8).
+See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#deprecation-inplace for more details.",True,,,,
+ILR_SAR,2.0,Rook,full_vs_ord,,,,,,,True,3.1517455312268794e-11,7.375655641794765e-12,0.0,True

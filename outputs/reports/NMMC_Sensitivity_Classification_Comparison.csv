@@ -1,0 +1,6 @@
+indicator,classification_agreement_pct,queen_hotspots,rook_hotspots,queen_coldspots,rook_coldspots,queen_rook_z_score_correlation
+builtup_expansion_km2,100.0,0,0,0,0,0.9922428922428923
+vegetation_loss_km2,100.0,0,0,0,0,0.9901456651456652
+wetland_loss_km2,100.0,0,0,0,0,0.9395314145314145
+lst_increase_c,99.09909909909909,8,8,11,10,0.9956212706212706
+ndvi_decline,100.0,0,0,5,5,0.9871007371007371

@@ -1,0 +1,31 @@
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary and intermediate files
+*.aux.xml
+*.log
+*.tmp
+*.bak
+
+# Generated large exports
+# Add specific filenames or directories here if needed.
+# Do not globally ignore *.tif or *.tiff:
+# analytical raster inputs are required for reproducibility.

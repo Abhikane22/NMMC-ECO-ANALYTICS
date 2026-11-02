@@ -1,0 +1,13 @@
+model,variable,VIF
+ABSOLUTE_Queen,builtup_change_km2,1.8744549759768412
+ABSOLUTE_Queen,vegetation_change_km2,1.865372980016545
+ABSOLUTE_Queen,wetland_change_km2,1.0235812431561007
+ABSOLUTE_Rook,builtup_change_km2,1.8744549759768412
+ABSOLUTE_Rook,vegetation_change_km2,1.865372980016545
+ABSOLUTE_Rook,wetland_change_km2,1.0235812431561007
+NORMALIZED_Queen,builtup_change_pct_points,1.26086605314259
+NORMALIZED_Queen,vegetation_change_pct_points,1.0535833961827124
+NORMALIZED_Queen,wetland_change_pct_points,1.2023165191458236
+NORMALIZED_Rook,builtup_change_pct_points,1.26086605314259
+NORMALIZED_Rook,vegetation_change_pct_points,1.0535833961827124
+NORMALIZED_Rook,wetland_change_pct_points,1.2023165191458236
