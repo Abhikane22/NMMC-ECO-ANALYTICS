@@ -587,7 +587,7 @@ def fit_model(
             y,
             X,
             w=w,
-            method="full",
+            method="ord",
             epsilon=1e-7,
             spat_diag=True,
             vm=True,

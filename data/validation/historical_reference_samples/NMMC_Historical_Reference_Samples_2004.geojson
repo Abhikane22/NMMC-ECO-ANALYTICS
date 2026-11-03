@@ -1,0 +1,6755 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01265354753357,
+          19.00502258276934
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_001",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 692,
+        "column": 154,
+        "x_utm": 290805.0,
+        "y_utm": 2102565.0,
+        "longitude": 73.01265354753357,
+        "latitude": 19.00502258276934,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99491327714527,
+          19.10618409791377
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_002",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 318,
+        "column": 96,
+        "x_utm": 289065.0,
+        "y_utm": 2113785.0,
+        "longitude": 72.99491327714527,
+        "latitude": 19.10618409791377,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99083893860822,
+          18.994759883815583
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_003",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 729,
+        "column": 77,
+        "x_utm": 288495.0,
+        "y_utm": 2101455.0,
+        "longitude": 72.99083893860822,
+        "latitude": 18.994759883815583,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00191581477011,
+          18.99758986333696
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_004",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 719,
+        "column": 116,
+        "x_utm": 289665.0,
+        "y_utm": 2101755.0,
+        "longitude": 73.00191581477011,
+        "latitude": 18.99758986333696,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97485842292946,
+          19.067483392421064
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_005",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 460,
+        "column": 24,
+        "x_utm": 286905.0,
+        "y_utm": 2109525.0,
+        "longitude": 72.97485842292946,
+        "latitude": 19.067483392421064,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00784944860791,
+          19.001718877891882
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_006",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 704,
+        "column": 137,
+        "x_utm": 290295.0,
+        "y_utm": 2102205.0,
+        "longitude": 73.00784944860791,
+        "latitude": 19.001718877891882,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00385183960255,
+          19.02633674067783
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_007",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 613,
+        "column": 124,
+        "x_utm": 289905.0,
+        "y_utm": 2104935.0,
+        "longitude": 73.00385183960255,
+        "latitude": 19.02633674067783,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98227099385375,
+          19.067293664079234
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_008",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 461,
+        "column": 50,
+        "x_utm": 287685.0,
+        "y_utm": 2109495.0,
+        "longitude": 72.98227099385375,
+        "latitude": 19.067293664079234,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98358191564395,
+          19.147251420664592
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_009",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 166,
+        "column": 58,
+        "x_utm": 287925.0,
+        "y_utm": 2118345.0,
+        "longitude": 72.98358191564395,
+        "latitude": 19.147251420664592,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9913728696866,
+          18.997746665967252
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_010",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 718,
+        "column": 79,
+        "x_utm": 288555.0,
+        "y_utm": 2101785.0,
+        "longitude": 72.9913728696866,
+        "latitude": 18.997746665967252,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97905086850409,
+          19.074304266751582
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_011",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 435,
+        "column": 39,
+        "x_utm": 287355.0,
+        "y_utm": 2110275.0,
+        "longitude": 72.97905086850409,
+        "latitude": 19.074304266751582,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00238803080329,
+          19.053420799678584
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_012",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 513,
+        "column": 120,
+        "x_utm": 289785.0,
+        "y_utm": 2107935.0,
+        "longitude": 73.00238803080329,
+        "latitude": 19.053420799678584,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99225249040515,
+          19.090437325830976
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_013",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 376,
+        "column": 86,
+        "x_utm": 288765.0,
+        "y_utm": 2112045.0,
+        "longitude": 72.99225249040515,
+        "latitude": 19.090437325830976,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99946700990316,
+          19.059351106285725
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_014",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 491,
+        "column": 110,
+        "x_utm": 289485.0,
+        "y_utm": 2108595.0,
+        "longitude": 72.99946700990316,
+        "latitude": 19.059351106285725,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98497885623496,
+          19.12612921027576
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_015",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 244,
+        "column": 62,
+        "x_utm": 288045.0,
+        "y_utm": 2116005.0,
+        "longitude": 72.98497885623496,
+        "latitude": 19.12612921027576,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97682388703413,
+          19.11682590068947
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_016",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 278,
+        "column": 33,
+        "x_utm": 287175.0,
+        "y_utm": 2114985.0,
+        "longitude": 72.97682388703413,
+        "latitude": 19.11682590068947,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00939946961198,
+          18.99116653583835
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_017",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 743,
+        "column": 142,
+        "x_utm": 290445.0,
+        "y_utm": 2101035.0,
+        "longitude": 73.00939946961198,
+        "latitude": 18.99116653583835,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98436482920847,
+          19.153221871102435
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_018",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 144,
+        "column": 61,
+        "x_utm": 288015.0,
+        "y_utm": 2119005.0,
+        "longitude": 72.98436482920847,
+        "latitude": 19.153221871102435,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98698094295136,
+          19.125609147072964
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_019",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 246,
+        "column": 69,
+        "x_utm": 288255.0,
+        "y_utm": 2115945.0,
+        "longitude": 72.98698094295136,
+        "latitude": 19.125609147072964,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98447869891783,
+          19.16731477642713
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_020",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 92,
+        "column": 62,
+        "x_utm": 288045.0,
+        "y_utm": 2120565.0,
+        "longitude": 72.98447869891783,
+        "latitude": 19.16731477642713,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98981493014115,
+          19.07984189505501
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_021",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 415,
+        "column": 77,
+        "x_utm": 288495.0,
+        "y_utm": 2110875.0,
+        "longitude": 72.98981493014115,
+        "latitude": 19.07984189505501,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98416965595511,
+          19.122326422295515
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_022",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 258,
+        "column": 59,
+        "x_utm": 287955.0,
+        "y_utm": 2115585.0,
+        "longitude": 72.98416965595511,
+        "latitude": 19.122326422295515,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98433308730684,
+          19.132354999180336
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_023",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 221,
+        "column": 60,
+        "x_utm": 287985.0,
+        "y_utm": 2116695.0,
+        "longitude": 72.98433308730684,
+        "latitude": 19.132354999180336,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99496226718584,
+          19.102119688504118
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_024",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 333,
+        "column": 96,
+        "x_utm": 289065.0,
+        "y_utm": 2113335.0,
+        "longitude": 72.99496226718584,
+        "latitude": 19.102119688504118,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9828770041817,
+          19.064319343132862
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_025",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 472,
+        "column": 52,
+        "x_utm": 287745.0,
+        "y_utm": 2109165.0,
+        "longitude": 72.9828770041817,
+        "latitude": 19.064319343132862,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99460863314047,
+          19.107806755582967
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_026",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 312,
+        "column": 95,
+        "x_utm": 289035.0,
+        "y_utm": 2113965.0,
+        "longitude": 72.99460863314047,
+        "latitude": 19.107806755582967,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97582847218509,
+          19.058009228150958
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_027",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 495,
+        "column": 27,
+        "x_utm": 286995.0,
+        "y_utm": 2108475.0,
+        "longitude": 72.97582847218509,
+        "latitude": 19.058009228150958,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98244378997634,
+          19.100085960402975
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_028",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 340,
+        "column": 52,
+        "x_utm": 287745.0,
+        "y_utm": 2113125.0,
+        "longitude": 72.98244378997634,
+        "latitude": 19.100085960402975,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00282215424663,
+          19.04095955933352
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_029",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 559,
+        "column": 121,
+        "x_utm": 289815.0,
+        "y_utm": 2106555.0,
+        "longitude": 73.00282215424663,
+        "latitude": 19.04095955933352,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99084219107917,
+          18.99448892066177
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_030",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 730,
+        "column": 77,
+        "x_utm": 288495.0,
+        "y_utm": 2101425.0,
+        "longitude": 72.99084219107917,
+        "latitude": 18.99448892066177,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99253481621959,
+          19.114288045081107
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_031",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 288,
+        "column": 88,
+        "x_utm": 288825.0,
+        "y_utm": 2114685.0,
+        "longitude": 72.99253481621959,
+        "latitude": 19.114288045081107,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98945806169742,
+          19.132953105127477
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_032",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 219,
+        "column": 78,
+        "x_utm": 288525.0,
+        "y_utm": 2116755.0,
+        "longitude": 72.98945806169742,
+        "latitude": 19.132953105127477,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00538309712523,
+          19.017410291984636
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_033",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 646,
+        "column": 129,
+        "x_utm": 290055.0,
+        "y_utm": 2103945.0,
+        "longitude": 73.00538309712523,
+        "latitude": 19.017410291984636,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99118169224623,
+          19.131887966637866
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_034",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 223,
+        "column": 84,
+        "x_utm": 288705.0,
+        "y_utm": 2116635.0,
+        "longitude": 72.99118169224623,
+        "latitude": 19.131887966637866,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99839379977315,
+          19.006223758653235
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_035",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 687,
+        "column": 104,
+        "x_utm": 289305.0,
+        "y_utm": 2102715.0,
+        "longitude": 72.99839379977315,
+        "latitude": 19.006223758653235,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97821115778018,
+          19.09651660584975
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_036",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 353,
+        "column": 37,
+        "x_utm": 287295.0,
+        "y_utm": 2112735.0,
+        "longitude": 72.97821115778018,
+        "latitude": 19.09651660584975,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98221461579598,
+          19.09547653913507
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_037",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 357,
+        "column": 51,
+        "x_utm": 287715.0,
+        "y_utm": 2112615.0,
+        "longitude": 72.98221461579598,
+        "latitude": 19.09547653913507,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00617899988691,
+          18.99844887059698
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_038",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 716,
+        "column": 131,
+        "x_utm": 290115.0,
+        "y_utm": 2101845.0,
+        "longitude": 73.00617899988691,
+        "latitude": 18.99844887059698,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97800366265946,
+          19.113586946470043
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_039",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 290,
+        "column": 37,
+        "x_utm": 287295.0,
+        "y_utm": 2114625.0,
+        "longitude": 72.97800366265946,
+        "latitude": 19.113586946470043,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9880096495962,
+          19.134834221366432
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_040",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 212,
+        "column": 73,
+        "x_utm": 288375.0,
+        "y_utm": 2116965.0,
+        "longitude": 72.9880096495962,
+        "latitude": 19.134834221366432,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98501500203102,
+          19.123148668244234
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_041",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 255,
+        "column": 62,
+        "x_utm": 288045.0,
+        "y_utm": 2115675.0,
+        "longitude": 72.98501500203102,
+        "latitude": 19.123148668244234,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97386324369927,
+          19.10243067488424
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_042",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 331,
+        "column": 22,
+        "x_utm": 286845.0,
+        "y_utm": 2113395.0,
+        "longitude": 72.97386324369927,
+        "latitude": 19.10243067488424,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00128068132676,
+          19.050698822985822
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_043",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 523,
+        "column": 116,
+        "x_utm": 289665.0,
+        "y_utm": 2107635.0,
+        "longitude": 73.00128068132676,
+        "latitude": 19.050698822985822,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03488328604126,
+          19.004447170150627
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_044",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 695,
+        "column": 232,
+        "x_utm": 293145.0,
+        "y_utm": 2102475.0,
+        "longitude": 73.03488328604126,
+        "latitude": 19.004447170150627,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9856376891911,
+          19.118819576211713
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_045",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 271,
+        "column": 64,
+        "x_utm": 288105.0,
+        "y_utm": 2115195.0,
+        "longitude": 72.9856376891911,
+        "latitude": 19.118819576211713,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01416152618916,
+          18.997992749834452
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_046",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 718,
+        "column": 159,
+        "x_utm": 290955.0,
+        "y_utm": 2101785.0,
+        "longitude": 73.01416152618916,
+        "latitude": 18.997992749834452,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99244079979549,
+          19.051144851990216
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_047",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 521,
+        "column": 85,
+        "x_utm": 288735.0,
+        "y_utm": 2107695.0,
+        "longitude": 72.99244079979549,
+        "latitude": 19.051144851990216,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99185152478239,
+          19.005339819807123
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_048",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 690,
+        "column": 81,
+        "x_utm": 288615.0,
+        "y_utm": 2102625.0,
+        "longitude": 72.99185152478239,
+        "latitude": 19.005339819807123,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9927646488244,
+          19.00047176180655
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_049",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 708,
+        "column": 84,
+        "x_utm": 288705.0,
+        "y_utm": 2102085.0,
+        "longitude": 72.9927646488244,
+        "latitude": 19.00047176180655,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98487165334122,
+          19.087917768014744
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_0_050",
+        "year": 2004,
+        "mapped_class_code": 0,
+        "mapped_class_name": "Water",
+        "row": 385,
+        "column": 60,
+        "x_utm": 287985.0,
+        "y_utm": 2111775.0,
+        "longitude": 72.98487165334122,
+        "latitude": 19.087917768014744,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02734932929174,
+          19.13553157427886
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_051",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 211,
+        "column": 211,
+        "x_utm": 292515.0,
+        "y_utm": 2116995.0,
+        "longitude": 73.02734932929174,
+        "latitude": 19.13553157427886,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01335653984613,
+          19.161125645560315
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_052",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 116,
+        "column": 163,
+        "x_utm": 291075.0,
+        "y_utm": 2119845.0,
+        "longitude": 73.01335653984613,
+        "latitude": 19.161125645560315,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03655874432484,
+          19.104194031160763
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_053",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 327,
+        "column": 242,
+        "x_utm": 293445.0,
+        "y_utm": 2113515.0,
+        "longitude": 73.03655874432484,
+        "latitude": 19.104194031160763,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04389665063898,
+          19.11050520709036
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_054",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 304,
+        "column": 268,
+        "x_utm": 294225.0,
+        "y_utm": 2114205.0,
+        "longitude": 73.04389665063898,
+        "latitude": 19.11050520709036,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04091124905167,
+          19.049226821902128
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_055",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 530,
+        "column": 255,
+        "x_utm": 293835.0,
+        "y_utm": 2107425.0,
+        "longitude": 73.04091124905167,
+        "latitude": 19.049226821902128,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01058383887857,
+          19.13074394388313
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_056",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 228,
+        "column": 152,
+        "x_utm": 290745.0,
+        "y_utm": 2116485.0,
+        "longitude": 73.01058383887857,
+        "latitude": 19.13074394388313,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98835405429908,
+          19.106383524551834
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_057",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 317,
+        "column": 73,
+        "x_utm": 288375.0,
+        "y_utm": 2113815.0,
+        "longitude": 72.98835405429908,
+        "latitude": 19.106383524551834,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0074890688869,
+          19.151035199606852
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_058",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 153,
+        "column": 142,
+        "x_utm": 290445.0,
+        "y_utm": 2118735.0,
+        "longitude": 73.0074890688869,
+        "latitude": 19.151035199606852,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0391901823928,
+          19.07441182422238
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_059",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 437,
+        "column": 250,
+        "x_utm": 293685.0,
+        "y_utm": 2110215.0,
+        "longitude": 73.0391901823928,
+        "latitude": 19.07441182422238,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99207625415245,
+          19.128645796646296
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_060",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 235,
+        "column": 87,
+        "x_utm": 288795.0,
+        "y_utm": 2116275.0,
+        "longitude": 72.99207625415245,
+        "latitude": 19.128645796646296,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04319602825153,
+          19.073099377120265
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_061",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 442,
+        "column": 264,
+        "x_utm": 294105.0,
+        "y_utm": 2110065.0,
+        "longitude": 73.04319602825153,
+        "latitude": 19.073099377120265,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01815124502907,
+          19.117817728865703
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_062",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 276,
+        "column": 178,
+        "x_utm": 291525.0,
+        "y_utm": 2115045.0,
+        "longitude": 73.01815124502907,
+        "latitude": 19.117817728865703,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03976507387713,
+          19.049756656963375
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_063",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 528,
+        "column": 251,
+        "x_utm": 293715.0,
+        "y_utm": 2107485.0,
+        "longitude": 73.03976507387713,
+        "latitude": 19.049756656963375,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02764086382382,
+          19.134992703186057
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_064",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 213,
+        "column": 212,
+        "x_utm": 292545.0,
+        "y_utm": 2116935.0,
+        "longitude": 73.02764086382382,
+        "latitude": 19.134992703186057,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03747141580676,
+          19.099325731471534
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_065",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 345,
+        "column": 245,
+        "x_utm": 293535.0,
+        "y_utm": 2112975.0,
+        "longitude": 73.03747141580676,
+        "latitude": 19.099325731471534,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99302912277169,
+          19.096949698935408
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_066",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 352,
+        "column": 89,
+        "x_utm": 288855.0,
+        "y_utm": 2112765.0,
+        "longitude": 72.99302912277169,
+        "latitude": 19.096949698935408,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00956617171812,
+          19.144282792410365
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_067",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 178,
+        "column": 149,
+        "x_utm": 290655.0,
+        "y_utm": 2117985.0,
+        "longitude": 73.00956617171812,
+        "latitude": 19.144282792410365,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99588034525216,
+          19.120557422565508
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_068",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 265,
+        "column": 100,
+        "x_utm": 289185.0,
+        "y_utm": 2115375.0,
+        "longitude": 72.99588034525216,
+        "latitude": 19.120557422565508,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02304706096106,
+          19.137653348926015
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_069",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 203,
+        "column": 196,
+        "x_utm": 292065.0,
+        "y_utm": 2117235.0,
+        "longitude": 73.02304706096106,
+        "latitude": 19.137653348926015,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01594870197621,
+          19.13513788384375
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_070",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 212,
+        "column": 171,
+        "x_utm": 291315.0,
+        "y_utm": 2116965.0,
+        "longitude": 73.01594870197621,
+        "latitude": 19.13513788384375,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02181947828149,
+          19.14495710765489
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_071",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 176,
+        "column": 192,
+        "x_utm": 291945.0,
+        "y_utm": 2118045.0,
+        "longitude": 73.02181947828149,
+        "latitude": 19.14495710765489,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04491897855421,
+          19.120543158295135
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_072",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 267,
+        "column": 272,
+        "x_utm": 294345.0,
+        "y_utm": 2115315.0,
+        "longitude": 73.04491897855421,
+        "latitude": 19.120543158295135,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01495727201335,
+          19.12266126508858
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_073",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 258,
+        "column": 167,
+        "x_utm": 291195.0,
+        "y_utm": 2115585.0,
+        "longitude": 73.01495727201335,
+        "latitude": 19.12266126508858,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01858244619476,
+          19.129475320807675
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_074",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 233,
+        "column": 180,
+        "x_utm": 291585.0,
+        "y_utm": 2116335.0,
+        "longitude": 73.01858244619476,
+        "latitude": 19.129475320807675,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04289512257667,
+          19.074451198666104
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_075",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 437,
+        "column": 263,
+        "x_utm": 294075.0,
+        "y_utm": 2110215.0,
+        "longitude": 73.04289512257667,
+        "latitude": 19.074451198666104,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02974582474508,
+          19.125801274010033
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_076",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 247,
+        "column": 219,
+        "x_utm": 292755.0,
+        "y_utm": 2115915.0,
+        "longitude": 73.02974582474508,
+        "latitude": 19.125801274010033,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99287804881162,
+          19.085837205627335
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_077",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 393,
+        "column": 88,
+        "x_utm": 288825.0,
+        "y_utm": 2111535.0,
+        "longitude": 72.99287804881162,
+        "latitude": 19.085837205627335,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04800356246186,
+          19.027621599239225
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_078",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 610,
+        "column": 279,
+        "x_utm": 294555.0,
+        "y_utm": 2105025.0,
+        "longitude": 73.04800356246186,
+        "latitude": 19.027621599239225,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04253300298929,
+          19.0324417838135
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_079",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 592,
+        "column": 260,
+        "x_utm": 293985.0,
+        "y_utm": 2105565.0,
+        "longitude": 73.04253300298929,
+        "latitude": 19.0324417838135,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02378168637333,
+          19.123840286200114
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_080",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 254,
+        "column": 198,
+        "x_utm": 292125.0,
+        "y_utm": 2115705.0,
+        "longitude": 73.02378168637333,
+        "latitude": 19.123840286200114,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0242680583544,
+          19.13089149624083
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_081",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 228,
+        "column": 200,
+        "x_utm": 292185.0,
+        "y_utm": 2116485.0,
+        "longitude": 73.0242680583544,
+        "latitude": 19.13089149624083,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03983028821628,
+          19.068456569311586
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_082",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 459,
+        "column": 252,
+        "x_utm": 293745.0,
+        "y_utm": 2109555.0,
+        "longitude": 73.03983028821628,
+        "latitude": 19.068456569311586,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0146264574545,
+          19.17414724266074
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_083",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 68,
+        "column": 168,
+        "x_utm": 291225.0,
+        "y_utm": 2121285.0,
+        "longitude": 73.0146264574545,
+        "latitude": 19.17414724266074,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03251682911274,
+          19.10848689222825
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_084",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 311,
+        "column": 228,
+        "x_utm": 293025.0,
+        "y_utm": 2113995.0,
+        "longitude": 73.03251682911274,
+        "latitude": 19.10848689222825,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04591026342827,
+          19.060390992546495
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_085",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 489,
+        "column": 273,
+        "x_utm": 294375.0,
+        "y_utm": 2108655.0,
+        "longitude": 73.04591026342827,
+        "latitude": 19.060390992546495,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04756104167082,
+          19.11406715582466
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_086",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 291,
+        "column": 281,
+        "x_utm": 294615.0,
+        "y_utm": 2114595.0,
+        "longitude": 73.04756104167082,
+        "latitude": 19.11406715582466,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0210125992494,
+          19.140883440604583
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_087",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 191,
+        "column": 189,
+        "x_utm": 291855.0,
+        "y_utm": 2117595.0,
+        "longitude": 73.0210125992494,
+        "latitude": 19.140883440604583,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02716722396661,
+          19.126857630043176
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_088",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 243,
+        "column": 210,
+        "x_utm": 292485.0,
+        "y_utm": 2116035.0,
+        "longitude": 73.02716722396661,
+        "latitude": 19.126857630043176,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99160399540982,
+          19.09693416078847
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_089",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 352,
+        "column": 84,
+        "x_utm": 288705.0,
+        "y_utm": 2112765.0,
+        "longitude": 72.99160399540982,
+        "latitude": 19.09693416078847,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04302981884291,
+          19.038680145875414
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_090",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 569,
+        "column": 262,
+        "x_utm": 294045.0,
+        "y_utm": 2106255.0,
+        "longitude": 73.04302981884291,
+        "latitude": 19.038680145875414,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01425433303383,
+          19.13376459943373
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_091",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 217,
+        "column": 165,
+        "x_utm": 291135.0,
+        "y_utm": 2116815.0,
+        "longitude": 73.01425433303383,
+        "latitude": 19.13376459943373,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99772642648765,
+          19.085618965808322
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_092",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 394,
+        "column": 105,
+        "x_utm": 289335.0,
+        "y_utm": 2111505.0,
+        "longitude": 72.99772642648765,
+        "latitude": 19.085618965808322,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00231774758262,
+          19.154230987410532
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_093",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 141,
+        "column": 124,
+        "x_utm": 289905.0,
+        "y_utm": 2119095.0,
+        "longitude": 73.00231774758262,
+        "latitude": 19.154230987410532,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04424862264989,
+          19.104817895613746
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_094",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 325,
+        "column": 269,
+        "x_utm": 294255.0,
+        "y_utm": 2113575.0,
+        "longitude": 73.04424862264989,
+        "latitude": 19.104817895613746,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00412777342044,
+          19.122273075160233
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_095",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 259,
+        "column": 129,
+        "x_utm": 290055.0,
+        "y_utm": 2115555.0,
+        "longitude": 73.00412777342044,
+        "latitude": 19.122273075160233,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04066294642476,
+          19.0703624408393
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_096",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 452,
+        "column": 255,
+        "x_utm": 293835.0,
+        "y_utm": 2109765.0,
+        "longitude": 73.04066294642476,
+        "latitude": 19.0703624408393,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00481542810168,
+          19.15994905412537
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_097",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 120,
+        "column": 133,
+        "x_utm": 290175.0,
+        "y_utm": 2119725.0,
+        "longitude": 73.00481542810168,
+        "latitude": 19.15994905412537,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0204197683295,
+          19.14277404587728
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_098",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 184,
+        "column": 187,
+        "x_utm": 291795.0,
+        "y_utm": 2117805.0,
+        "longitude": 73.0204197683295,
+        "latitude": 19.14277404587728,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04223107648845,
+          19.058183948754063
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_099",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 497,
+        "column": 260,
+        "x_utm": 293985.0,
+        "y_utm": 2108415.0,
+        "longitude": 73.04223107648845,
+        "latitude": 19.058183948754063,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03402205226354,
+          19.125847036516685
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_1_100",
+        "year": 2004,
+        "mapped_class_code": 1,
+        "mapped_class_name": "Vegetation",
+        "row": 247,
+        "column": 234,
+        "x_utm": 293205.0,
+        "y_utm": 2115915.0,
+        "longitude": 73.03402205226354,
+        "latitude": 19.125847036516685,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03911683048537,
+          19.080644104039045
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_101",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 414,
+        "column": 250,
+        "x_utm": 293685.0,
+        "y_utm": 2110905.0,
+        "longitude": 73.03911683048537,
+        "latitude": 19.080644104039045,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98669840606316,
+          19.148911561168592
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_102",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 160,
+        "column": 69,
+        "x_utm": 288255.0,
+        "y_utm": 2118525.0,
+        "longitude": 72.98669840606316,
+        "latitude": 19.148911561168592,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0240157164174,
+          19.056092713441522
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_103",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 504,
+        "column": 196,
+        "x_utm": 292065.0,
+        "y_utm": 2108205.0,
+        "longitude": 73.0240157164174,
+        "latitude": 19.056092713441522,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00198622141194,
+          19.063172387716993
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_104",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 477,
+        "column": 119,
+        "x_utm": 289755.0,
+        "y_utm": 2109015.0,
+        "longitude": 73.00198622141194,
+        "latitude": 19.063172387716993,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0352520843665,
+          19.118272154456903
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_105",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 275,
+        "column": 238,
+        "x_utm": 293325.0,
+        "y_utm": 2115075.0,
+        "longitude": 73.0352520843665,
+        "latitude": 19.118272154456903,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04372347268458,
+          19.02811832771622
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_106",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 608,
+        "column": 264,
+        "x_utm": 294105.0,
+        "y_utm": 2105085.0,
+        "longitude": 73.04372347268458,
+        "latitude": 19.02811832771622,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02922184887595,
+          19.04964435679293
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_107",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 528,
+        "column": 214,
+        "x_utm": 292605.0,
+        "y_utm": 2107485.0,
+        "longitude": 73.02922184887595,
+        "latitude": 19.04964435679293,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00818110002544,
+          19.06947237503454
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_108",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 454,
+        "column": 141,
+        "x_utm": 290415.0,
+        "y_utm": 2109705.0,
+        "longitude": 73.00818110002544,
+        "latitude": 19.06947237503454,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02545014541776,
+          19.055295068166718
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_109",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 507,
+        "column": 201,
+        "x_utm": 292215.0,
+        "y_utm": 2108115.0,
+        "longitude": 73.02545014541776,
+        "latitude": 19.055295068166718,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99354770151815,
+          19.148444502974645
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_110",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 162,
+        "column": 93,
+        "x_utm": 288975.0,
+        "y_utm": 2118465.0,
+        "longitude": 72.99354770151815,
+        "latitude": 19.148444502974645,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03961667293338,
+          19.086611477589067
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_111",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 392,
+        "column": 252,
+        "x_utm": 293745.0,
+        "y_utm": 2111565.0,
+        "longitude": 73.03961667293338,
+        "latitude": 19.086611477589067,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0037862835535,
+          19.079451773439708
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_112",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 417,
+        "column": 126,
+        "x_utm": 289965.0,
+        "y_utm": 2110815.0,
+        "longitude": 73.0037862835535,
+        "latitude": 19.079451773439708,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03935398956335,
+          19.084711665143224
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_113",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 399,
+        "column": 251,
+        "x_utm": 293715.0,
+        "y_utm": 2111355.0,
+        "longitude": 73.03935398956335,
+        "latitude": 19.084711665143224,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0038346580261,
+          19.14665958659909
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_114",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 169,
+        "column": 129,
+        "x_utm": 290055.0,
+        "y_utm": 2118255.0,
+        "longitude": 73.0038346580261,
+        "latitude": 19.14665958659909,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01226794867448,
+          19.156777911876365
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_115",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 132,
+        "column": 159,
+        "x_utm": 290955.0,
+        "y_utm": 2119365.0,
+        "longitude": 73.01226794867448,
+        "latitude": 19.156777911876365,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99916175988466,
+          19.155822607980145
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_116",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 135,
+        "column": 113,
+        "x_utm": 289575.0,
+        "y_utm": 2119275.0,
+        "longitude": 72.99916175988466,
+        "latitude": 19.155822607980145,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99637310672904,
+          19.079642320007967
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_117",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 416,
+        "column": 100,
+        "x_utm": 289185.0,
+        "y_utm": 2110845.0,
+        "longitude": 72.99637310672904,
+        "latitude": 19.079642320007967,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01416788671143,
+          19.04541796437935
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_118",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 543,
+        "column": 161,
+        "x_utm": 291015.0,
+        "y_utm": 2107035.0,
+        "longitude": 73.01416788671143,
+        "latitude": 19.04541796437935,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0050268494668,
+          19.071064261171255
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_119",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 448,
+        "column": 130,
+        "x_utm": 290085.0,
+        "y_utm": 2109885.0,
+        "longitude": 73.0050268494668,
+        "latitude": 19.071064261171255,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02074082819101,
+          19.043862562959436
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_120",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 549,
+        "column": 184,
+        "x_utm": 291705.0,
+        "y_utm": 2106855.0,
+        "longitude": 73.02074082819101,
+        "latitude": 19.043862562959436,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03925383794106,
+          19.020482822681096
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_121",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 636,
+        "column": 248,
+        "x_utm": 293625.0,
+        "y_utm": 2104245.0,
+        "longitude": 73.03925383794106,
+        "latitude": 19.020482822681096,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01621864032991,
+          19.064681035446682
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_122",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 472,
+        "column": 169,
+        "x_utm": 291255.0,
+        "y_utm": 2109165.0,
+        "longitude": 73.01621864032991,
+        "latitude": 19.064681035446682,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0023341442617,
+          19.10545179493915
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_123",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 321,
+        "column": 122,
+        "x_utm": 289845.0,
+        "y_utm": 2113695.0,
+        "longitude": 73.0023341442617,
+        "latitude": 19.10545179493915,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00364405574844,
+          19.13879862183039
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_124",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 198,
+        "column": 128,
+        "x_utm": 290025.0,
+        "y_utm": 2117385.0,
+        "longitude": 73.00364405574844,
+        "latitude": 19.13879862183039,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01585498516661,
+          19.047333112095487
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_125",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 536,
+        "column": 167,
+        "x_utm": 291195.0,
+        "y_utm": 2107245.0,
+        "longitude": 73.01585498516661,
+        "latitude": 19.047333112095487,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9955800575977,
+          19.074484753103146
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_126",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 435,
+        "column": 97,
+        "x_utm": 289095.0,
+        "y_utm": 2110275.0,
+        "longitude": 72.9955800575977,
+        "latitude": 19.074484753103146,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04176716625511,
+          19.02484554646667
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_127",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 620,
+        "column": 257,
+        "x_utm": 293895.0,
+        "y_utm": 2104725.0,
+        "longitude": 73.04176716625511,
+        "latitude": 19.02484554646667,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01326467668396,
+          19.049473244821353
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_128",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 528,
+        "column": 158,
+        "x_utm": 290925.0,
+        "y_utm": 2107485.0,
+        "longitude": 73.01326467668396,
+        "latitude": 19.049473244821353,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0144875866371,
+          19.13810308556213
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_129",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 201,
+        "column": 166,
+        "x_utm": 291165.0,
+        "y_utm": 2117295.0,
+        "longitude": 73.0144875866371,
+        "latitude": 19.13810308556213,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01472341082977,
+          19.022659891192813
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_130",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 627,
+        "column": 162,
+        "x_utm": 291045.0,
+        "y_utm": 2104515.0,
+        "longitude": 73.01472341082977,
+        "latitude": 19.022659891192813,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00915528083254,
+          19.035607973527515
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_131",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 579,
+        "column": 143,
+        "x_utm": 290475.0,
+        "y_utm": 2105955.0,
+        "longitude": 73.00915528083254,
+        "latitude": 19.035607973527515,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00795739893863,
+          19.040473046916034
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_132",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 561,
+        "column": 139,
+        "x_utm": 290355.0,
+        "y_utm": 2106495.0,
+        "longitude": 73.00795739893863,
+        "latitude": 19.040473046916034,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99528802480756,
+          19.169601097780873
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_133",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 84,
+        "column": 100,
+        "x_utm": 289185.0,
+        "y_utm": 2120805.0,
+        "longitude": 72.99528802480756,
+        "latitude": 19.169601097780873,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01228773086866,
+          19.083608652865486
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_134",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 402,
+        "column": 156,
+        "x_utm": 290865.0,
+        "y_utm": 2111265.0,
+        "longitude": 73.01228773086866,
+        "latitude": 19.083608652865486,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03237271335912,
+          19.072442163668747
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_135",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 444,
+        "column": 226,
+        "x_utm": 292965.0,
+        "y_utm": 2110005.0,
+        "longitude": 73.03237271335912,
+        "latitude": 19.072442163668747,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02245273451332,
+          19.067729002825086
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_136",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 461,
+        "column": 191,
+        "x_utm": 291915.0,
+        "y_utm": 2109495.0,
+        "longitude": 73.02245273451332,
+        "latitude": 19.067729002825086,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00243518636385,
+          19.1444764081791
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_137",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 177,
+        "column": 124,
+        "x_utm": 289905.0,
+        "y_utm": 2118015.0,
+        "longitude": 73.00243518636385,
+        "latitude": 19.1444764081791,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02193291016444,
+          19.08750645598341
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_138",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 388,
+        "column": 190,
+        "x_utm": 291885.0,
+        "y_utm": 2111685.0,
+        "longitude": 73.02193291016444,
+        "latitude": 19.08750645598341,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03179212690492,
+          19.025010542516995
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_139",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 619,
+        "column": 222,
+        "x_utm": 292845.0,
+        "y_utm": 2104755.0,
+        "longitude": 73.03179212690492,
+        "latitude": 19.025010542516995,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01063552928933,
+          19.054864911385923
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_140",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 508,
+        "column": 149,
+        "x_utm": 290655.0,
+        "y_utm": 2108085.0,
+        "longitude": 73.01063552928933,
+        "latitude": 19.054864911385923,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0220209897806,
+          19.056071336594297
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_141",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 504,
+        "column": 189,
+        "x_utm": 291855.0,
+        "y_utm": 2108205.0,
+        "longitude": 73.0220209897806,
+        "latitude": 19.056071336594297,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03856155004131,
+          19.055163932038617
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_142",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 508,
+        "column": 247,
+        "x_utm": 293595.0,
+        "y_utm": 2108085.0,
+        "longitude": 73.03856155004131,
+        "latitude": 19.055163932038617,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00065476015622,
+          19.1265712996977
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_143",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 243,
+        "column": 117,
+        "x_utm": 289695.0,
+        "y_utm": 2116035.0,
+        "longitude": 73.00065476015622,
+        "latitude": 19.1265712996977,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00288799865115,
+          19.15423718865524
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_144",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 141,
+        "column": 126,
+        "x_utm": 289965.0,
+        "y_utm": 2119095.0,
+        "longitude": 73.00288799865115,
+        "latitude": 19.15423718865524,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0137829615643,
+          19.053814824394884
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_145",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 512,
+        "column": 160,
+        "x_utm": 290985.0,
+        "y_utm": 2107965.0,
+        "longitude": 73.0137829615643,
+        "latitude": 19.053814824394884,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99387991941563,
+          19.073653266733594
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_146",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 438,
+        "column": 91,
+        "x_utm": 288915.0,
+        "y_utm": 2110185.0,
+        "longitude": 72.99387991941563,
+        "latitude": 19.073653266733594,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02637956354295,
+          19.121158183302285
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_147",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 264,
+        "column": 207,
+        "x_utm": 292395.0,
+        "y_utm": 2115405.0,
+        "longitude": 73.02637956354295,
+        "latitude": 19.121158183302285,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01253981658128,
+          19.06247342679848
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_148",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 480,
+        "column": 156,
+        "x_utm": 290865.0,
+        "y_utm": 2108925.0,
+        "longitude": 73.01253981658128,
+        "latitude": 19.06247342679848,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02499413793734,
+          19.09377231110557
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_149",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 365,
+        "column": 201,
+        "x_utm": 292215.0,
+        "y_utm": 2112375.0,
+        "longitude": 73.02499413793734,
+        "latitude": 19.09377231110557,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99592713442803,
+          19.18749370789142
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_2_150",
+        "year": 2004,
+        "mapped_class_code": 2,
+        "mapped_class_name": "Built-up",
+        "row": 18,
+        "column": 103,
+        "x_utm": 289275.0,
+        "y_utm": 2122785.0,
+        "longitude": 72.99592713442803,
+        "latitude": 19.18749370789142,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01011548482407,
+          19.002827278963572
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_151",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 700,
+        "column": 145,
+        "x_utm": 290535.0,
+        "y_utm": 2102325.0,
+        "longitude": 73.01011548482407,
+        "latitude": 19.002827278963572,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00883526283276,
+          19.08628136018463
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_152",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 392,
+        "column": 144,
+        "x_utm": 290505.0,
+        "y_utm": 2111565.0,
+        "longitude": 73.00883526283276,
+        "latitude": 19.08628136018463,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01570351008124,
+          19.060068493352993
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_153",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 489,
+        "column": 167,
+        "x_utm": 291195.0,
+        "y_utm": 2108655.0,
+        "longitude": 73.01570351008124,
+        "latitude": 19.060068493352993,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00744025044723,
+          19.155099618621307
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_154",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 138,
+        "column": 142,
+        "x_utm": 290445.0,
+        "y_utm": 2119185.0,
+        "longitude": 73.00744025044723,
+        "latitude": 19.155099618621307,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01481510687456,
+          19.03892091765532
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_155",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 567,
+        "column": 163,
+        "x_utm": 291075.0,
+        "y_utm": 2106315.0,
+        "longitude": 73.01481510687456,
+        "latitude": 19.03892091765532,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01053147317641,
+          19.03968780587899
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_156",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 564,
+        "column": 148,
+        "x_utm": 290625.0,
+        "y_utm": 2106405.0,
+        "longitude": 73.01053147317641,
+        "latitude": 19.03968780587899,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.026512417472,
+          19.08592956714683
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_157",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 394,
+        "column": 206,
+        "x_utm": 292365.0,
+        "y_utm": 2111505.0,
+        "longitude": 73.026512417472,
+        "latitude": 19.08592956714683,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02825711396034,
+          19.10708630457081
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_158",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 316,
+        "column": 213,
+        "x_utm": 292575.0,
+        "y_utm": 2113845.0,
+        "longitude": 73.02825711396034,
+        "latitude": 19.10708630457081,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99728347078259,
+          19.07504526339383
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_159",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 433,
+        "column": 103,
+        "x_utm": 289275.0,
+        "y_utm": 2110335.0,
+        "longitude": 72.99728347078259,
+        "latitude": 19.07504526339383,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99234788275477,
+          19.176885802585357
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_160",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 57,
+        "column": 90,
+        "x_utm": 288885.0,
+        "y_utm": 2121615.0,
+        "longitude": 72.99234788275477,
+        "latitude": 19.176885802585357,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03211311550824,
+          19.118509605055532
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_161",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 274,
+        "column": 227,
+        "x_utm": 292995.0,
+        "y_utm": 2115105.0,
+        "longitude": 73.03211311550824,
+        "latitude": 19.118509605055532,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0370488858105,
+          19.11097429756939
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_162",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 302,
+        "column": 244,
+        "x_utm": 293505.0,
+        "y_utm": 2114265.0,
+        "longitude": 73.0370488858105,
+        "latitude": 19.11097429756939,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00576205914858,
+          19.15237144152572
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_163",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 148,
+        "column": 136,
+        "x_utm": 290265.0,
+        "y_utm": 2118885.0,
+        "longitude": 73.00576205914858,
+        "latitude": 19.15237144152572,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00827821820785,
+          19.06134345594948
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_164",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 484,
+        "column": 141,
+        "x_utm": 290415.0,
+        "y_utm": 2108805.0,
+        "longitude": 73.00827821820785,
+        "latitude": 19.06134345594948,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02620914660324,
+          19.015194887359772
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_165",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 655,
+        "column": 202,
+        "x_utm": 292245.0,
+        "y_utm": 2103675.0,
+        "longitude": 73.02620914660324,
+        "latitude": 19.015194887359772,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99503409676893,
+          19.09615855124329
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_166",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 355,
+        "column": 96,
+        "x_utm": 289065.0,
+        "y_utm": 2112675.0,
+        "longitude": 72.99503409676893,
+        "latitude": 19.09615855124329,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04469553291,
+          19.018101445129954
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_167",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 645,
+        "column": 267,
+        "x_utm": 294195.0,
+        "y_utm": 2103975.0,
+        "longitude": 73.04469553291,
+        "latitude": 19.018101445129954,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02838300386722,
+          19.04828038618078
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_168",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 533,
+        "column": 211,
+        "x_utm": 292515.0,
+        "y_utm": 2107335.0,
+        "longitude": 73.02838300386722,
+        "latitude": 19.04828038618078,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01988055809866,
+          19.02027622210867
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_169",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 636,
+        "column": 180,
+        "x_utm": 291585.0,
+        "y_utm": 2104245.0,
+        "longitude": 73.01988055809866,
+        "latitude": 19.02027622210867,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03567683048199,
+          19.05811426922218
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_170",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 497,
+        "column": 237,
+        "x_utm": 293295.0,
+        "y_utm": 2108415.0,
+        "longitude": 73.03567683048199,
+        "latitude": 19.05811426922218,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02371878013898,
+          19.008935220218902
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_171",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 678,
+        "column": 193,
+        "x_utm": 291975.0,
+        "y_utm": 2102985.0,
+        "longitude": 73.02371878013898,
+        "latitude": 19.008935220218902,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02123178484668,
+          19.002404564460328
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_172",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 702,
+        "column": 184,
+        "x_utm": 291705.0,
+        "y_utm": 2102265.0,
+        "longitude": 73.02123178484668,
+        "latitude": 19.002404564460328,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99395712704165,
+          19.18530421952766
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_173",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 26,
+        "column": 96,
+        "x_utm": 289065.0,
+        "y_utm": 2122545.0,
+        "longitude": 72.99395712704165,
+        "latitude": 19.18530421952766,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00399389032873,
+          19.180806792808596
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_174",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 43,
+        "column": 131,
+        "x_utm": 290115.0,
+        "y_utm": 2122035.0,
+        "longitude": 73.00399389032873,
+        "latitude": 19.180806792808596,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01488086356125,
+          19.057349641522816
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_175",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 499,
+        "column": 164,
+        "x_utm": 291105.0,
+        "y_utm": 2108355.0,
+        "longitude": 73.01488086356125,
+        "latitude": 19.057349641522816,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0250668738853,
+          19.111659101310266
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_176",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 299,
+        "column": 202,
+        "x_utm": 292245.0,
+        "y_utm": 2114355.0,
+        "longitude": 73.0250668738853,
+        "latitude": 19.111659101310266,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98693309415609,
+          19.17655548414181
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_177",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 58,
+        "column": 71,
+        "x_utm": 288315.0,
+        "y_utm": 2121585.0,
+        "longitude": 72.98693309415609,
+        "latitude": 19.17655548414181,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00498499667422,
+          19.026890981527615
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_178",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 611,
+        "column": 128,
+        "x_utm": 290025.0,
+        "y_utm": 2104995.0,
+        "longitude": 73.00498499667422,
+        "latitude": 19.026890981527615,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00592990343017,
+          19.16212912914244
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_179",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 112,
+        "column": 137,
+        "x_utm": 290295.0,
+        "y_utm": 2119965.0,
+        "longitude": 73.00592990343017,
+        "latitude": 19.16212912914244,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00542086469788,
+          19.109550230353378
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_180",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 306,
+        "column": 133,
+        "x_utm": 290175.0,
+        "y_utm": 2114145.0,
+        "longitude": 73.00542086469788,
+        "latitude": 19.109550230353378,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99570754600987,
+          19.182071423951623
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_181",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 38,
+        "column": 102,
+        "x_utm": 289245.0,
+        "y_utm": 2122185.0,
+        "longitude": 72.99570754600987,
+        "latitude": 19.182071423951623,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01268940314388,
+          19.145400586211668
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_182",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 174,
+        "column": 160,
+        "x_utm": 290985.0,
+        "y_utm": 2118105.0,
+        "longitude": 73.01268940314388,
+        "latitude": 19.145400586211668,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02211806601815,
+          19.023823211241016
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_183",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 623,
+        "column": 188,
+        "x_utm": 291825.0,
+        "y_utm": 2104635.0,
+        "longitude": 73.02211806601815,
+        "latitude": 19.023823211241016,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02819728790365,
+          19.039877337584002
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_184",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 564,
+        "column": 210,
+        "x_utm": 292485.0,
+        "y_utm": 2106405.0,
+        "longitude": 73.02819728790365,
+        "latitude": 19.039877337584002,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01773839154438,
+          19.032719307018375
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_185",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 590,
+        "column": 173,
+        "x_utm": 291375.0,
+        "y_utm": 2105625.0,
+        "longitude": 73.01773839154438,
+        "latitude": 19.032719307018375,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00649193998974,
+          19.18652486263198
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_186",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 22,
+        "column": 140,
+        "x_utm": 290385.0,
+        "y_utm": 2122665.0,
+        "longitude": 73.00649193998974,
+        "latitude": 19.18652486263198,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00399398326358,
+          19.062110135449952
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_187",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 481,
+        "column": 126,
+        "x_utm": 289965.0,
+        "y_utm": 2108895.0,
+        "longitude": 73.00399398326358,
+        "latitude": 19.062110135449952,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01120270835656,
+          19.078989962848556
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_188",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 419,
+        "column": 152,
+        "x_utm": 290745.0,
+        "y_utm": 2110755.0,
+        "longitude": 73.01120270835656,
+        "latitude": 19.078989962848556,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98747598067236,
+          19.108270891893223
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_189",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 310,
+        "column": 70,
+        "x_utm": 288285.0,
+        "y_utm": 2114025.0,
+        "longitude": 72.98747598067236,
+        "latitude": 19.108270891893223,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9933540044706,
+          19.117277933377228
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_190",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 277,
+        "column": 91,
+        "x_utm": 288915.0,
+        "y_utm": 2115015.0,
+        "longitude": 72.9933540044706,
+        "latitude": 19.117277933377228,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00509170873475,
+          19.065644994002344
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_191",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 468,
+        "column": 130,
+        "x_utm": 290085.0,
+        "y_utm": 2109285.0,
+        "longitude": 73.00509170873475,
+        "latitude": 19.065644994002344,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99645445668489,
+          19.143869304702054
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_192",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 179,
+        "column": 103,
+        "x_utm": 289275.0,
+        "y_utm": 2117955.0,
+        "longitude": 72.99645445668489,
+        "latitude": 19.143869304702054,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0159884766003,
+          19.060071558879333
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_193",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 489,
+        "column": 168,
+        "x_utm": 291225.0,
+        "y_utm": 2108655.0,
+        "longitude": 73.0159884766003,
+        "latitude": 19.060071558879333,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.016436042939,
+          19.0224072855687
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_194",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 628,
+        "column": 168,
+        "x_utm": 291225.0,
+        "y_utm": 2104485.0,
+        "longitude": 73.016436042939,
+        "latitude": 19.0224072855687,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0310277659022,
+          19.089771898097897
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_195",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 380,
+        "column": 222,
+        "x_utm": 292845.0,
+        "y_utm": 2111925.0,
+        "longitude": 73.0310277659022,
+        "latitude": 19.089771898097897,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00254555092484,
+          19.087839258818853
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_196",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 386,
+        "column": 122,
+        "x_utm": 289845.0,
+        "y_utm": 2111745.0,
+        "longitude": 73.00254555092484,
+        "latitude": 19.087839258818853,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01679810519228,
+          19.01590714258566
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_197",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 652,
+        "column": 169,
+        "x_utm": 291255.0,
+        "y_utm": 2103765.0,
+        "longitude": 73.01679810519228,
+        "latitude": 19.01590714258566,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03888792147352,
+          19.051644359984213
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_198",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 521,
+        "column": 248,
+        "x_utm": 293625.0,
+        "y_utm": 2107695.0,
+        "longitude": 73.03888792147352,
+        "latitude": 19.051644359984213,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01179700778734,
+          19.029132431862898
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_199",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 603,
+        "column": 152,
+        "x_utm": 290745.0,
+        "y_utm": 2105235.0,
+        "longitude": 73.01179700778734,
+        "latitude": 19.029132431862898,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03715475898923,
+          19.126151499523854
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_3_200",
+        "year": 2004,
+        "mapped_class_code": 3,
+        "mapped_class_name": "Barren",
+        "row": 246,
+        "column": 245,
+        "x_utm": 293535.0,
+        "y_utm": 2115945.0,
+        "longitude": 73.03715475898923,
+        "latitude": 19.126151499523854,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98944508308863,
+          19.11046037583629
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_201",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 302,
+        "column": 77,
+        "x_utm": 288495.0,
+        "y_utm": 2114265.0,
+        "longitude": 72.98944508308863,
+        "latitude": 19.11046037583629,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9834205174518,
+          19.1605283261949
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_202",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 117,
+        "column": 58,
+        "x_utm": 287925.0,
+        "y_utm": 2119815.0,
+        "longitude": 72.9834205174518,
+        "latitude": 19.1605283261949,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98062835985914,
+          19.108737875708492
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_203",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 308,
+        "column": 46,
+        "x_utm": 287565.0,
+        "y_utm": 2114085.0,
+        "longitude": 72.98062835985914,
+        "latitude": 19.108737875708492,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00173107330508,
+          19.036882770167157
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_204",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 574,
+        "column": 117,
+        "x_utm": 289695.0,
+        "y_utm": 2106105.0,
+        "longitude": 73.00173107330508,
+        "latitude": 19.036882770167157,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98860550241818,
+          19.156249291793742
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_205",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 133,
+        "column": 76,
+        "x_utm": 288465.0,
+        "y_utm": 2119335.0,
+        "longitude": 72.98860550241818,
+        "latitude": 19.156249291793742,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0451356084542,
+          19.102117290099823
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_206",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 335,
+        "column": 272,
+        "x_utm": 294345.0,
+        "y_utm": 2113275.0,
+        "longitude": 73.0451356084542,
+        "latitude": 19.102117290099823,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98403903328281,
+          19.109588250776095
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_207",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 305,
+        "column": 58,
+        "x_utm": 287925.0,
+        "y_utm": 2114175.0,
+        "longitude": 72.98403903328281,
+        "latitude": 19.109588250776095,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97897736293974,
+          19.103841860297305
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_208",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 326,
+        "column": 40,
+        "x_utm": 287385.0,
+        "y_utm": 2113545.0,
+        "longitude": 72.97897736293974,
+        "latitude": 19.103841860297305,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98143415329218,
+          19.112811629151985
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_209",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 293,
+        "column": 49,
+        "x_utm": 287655.0,
+        "y_utm": 2114535.0,
+        "longitude": 72.98143415329218,
+        "latitude": 19.112811629151985,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9807040186499,
+          19.10250583710591
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_210",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 331,
+        "column": 46,
+        "x_utm": 287565.0,
+        "y_utm": 2113395.0,
+        "longitude": 72.9807040186499,
+        "latitude": 19.10250583710591,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01672268398646,
+          19.118073332793347
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_211",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 275,
+        "column": 173,
+        "x_utm": 291375.0,
+        "y_utm": 2115075.0,
+        "longitude": 73.01672268398646,
+        "latitude": 19.118073332793347,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99015268833323,
+          19.09908629172973
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_212",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 344,
+        "column": 79,
+        "x_utm": 288555.0,
+        "y_utm": 2113005.0,
+        "longitude": 72.99015268833323,
+        "latitude": 19.09908629172973,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98725651313318,
+          19.102848588788806
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_213",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 330,
+        "column": 69,
+        "x_utm": 288255.0,
+        "y_utm": 2113425.0,
+        "longitude": 72.98725651313318,
+        "latitude": 19.102848588788806,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98373427532056,
+          19.111210879586398
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_214",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 299,
+        "column": 57,
+        "x_utm": 287895.0,
+        "y_utm": 2114355.0,
+        "longitude": 72.98373427532056,
+        "latitude": 19.111210879586398,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98382296498052,
+          19.103894995638175
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_215",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 326,
+        "column": 57,
+        "x_utm": 287895.0,
+        "y_utm": 2113545.0,
+        "longitude": 72.98382296498052,
+        "latitude": 19.103894995638175,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9892746811915,
+          19.100973674453275
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_216",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 337,
+        "column": 76,
+        "x_utm": 288465.0,
+        "y_utm": 2113215.0,
+        "longitude": 72.9892746811915,
+        "latitude": 19.100973674453275,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0054480422339,
+          19.03583896394793
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_217",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 578,
+        "column": 130,
+        "x_utm": 290085.0,
+        "y_utm": 2105985.0,
+        "longitude": 73.0054480422339,
+        "latitude": 19.03583896394793,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98655549200828,
+          19.090104143889555
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_218",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 377,
+        "column": 66,
+        "x_utm": 288165.0,
+        "y_utm": 2112015.0,
+        "longitude": 72.98655549200828,
+        "latitude": 19.090104143889555,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98495014965978,
+          19.175449746875614
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_219",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 62,
+        "column": 64,
+        "x_utm": 288105.0,
+        "y_utm": 2121465.0,
+        "longitude": 72.98495014965978,
+        "latitude": 19.175449746875614,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98470433240915,
+          19.10173668759086
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_220",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 334,
+        "column": 60,
+        "x_utm": 287985.0,
+        "y_utm": 2113305.0,
+        "longitude": 72.98470433240915,
+        "latitude": 19.10173668759086,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98191873072906,
+          19.119862792851585
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_221",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 267,
+        "column": 51,
+        "x_utm": 287715.0,
+        "y_utm": 2115315.0,
+        "longitude": 72.98191873072906,
+        "latitude": 19.119862792851585,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99244926528465,
+          19.0977563662384
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_222",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 349,
+        "column": 87,
+        "x_utm": 288795.0,
+        "y_utm": 2112855.0,
+        "longitude": 72.99244926528465,
+        "latitude": 19.0977563662384,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98476279159009,
+          19.120435960902675
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_223",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 265,
+        "column": 61,
+        "x_utm": 288015.0,
+        "y_utm": 2115375.0,
+        "longitude": 72.98476279159009,
+        "latitude": 19.120435960902675,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98517082132422,
+          19.15729561788669
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_224",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 129,
+        "column": 64,
+        "x_utm": 288105.0,
+        "y_utm": 2119455.0,
+        "longitude": 72.98517082132422,
+        "latitude": 19.15729561788669,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99169226792782,
+          19.08961823002502
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_225",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 379,
+        "column": 84,
+        "x_utm": 288705.0,
+        "y_utm": 2111955.0,
+        "longitude": 72.99169226792782,
+        "latitude": 19.08961823002502,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98060861794387,
+          19.110363624168713
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_226",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 302,
+        "column": 46,
+        "x_utm": 287565.0,
+        "y_utm": 2114265.0,
+        "longitude": 72.98060861794387,
+        "latitude": 19.110363624168713,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9841145679617,
+          19.103356199608857
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_227",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 328,
+        "column": 58,
+        "x_utm": 287925.0,
+        "y_utm": 2113485.0,
+        "longitude": 72.9841145679617,
+        "latitude": 19.103356199608857,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02794526698143,
+          19.133369970629115
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_228",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 219,
+        "column": 213,
+        "x_utm": 292575.0,
+        "y_utm": 2116755.0,
+        "longitude": 73.02794526698143,
+        "latitude": 19.133369970629115,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98005498162361,
+          19.10900257769259
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_229",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 307,
+        "column": 44,
+        "x_utm": 287505.0,
+        "y_utm": 2114115.0,
+        "longitude": 72.98005498162361,
+        "latitude": 19.10900257769259,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9818342896184,
+          19.103331214894656
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_230",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 328,
+        "column": 50,
+        "x_utm": 287685.0,
+        "y_utm": 2113485.0,
+        "longitude": 72.9818342896184,
+        "latitude": 19.103331214894656,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9906867513742,
+          19.10207307376919
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_231",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 333,
+        "column": 81,
+        "x_utm": 288615.0,
+        "y_utm": 2113335.0,
+        "longitude": 72.9906867513742,
+        "latitude": 19.10207307376919,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97891480618061,
+          19.10899006017516
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_232",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 307,
+        "column": 40,
+        "x_utm": 287385.0,
+        "y_utm": 2114115.0,
+        "longitude": 72.97891480618061,
+        "latitude": 19.10899006017516,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02480601245753,
+          19.133607269573595
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_233",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 218,
+        "column": 202,
+        "x_utm": 292245.0,
+        "y_utm": 2116785.0,
+        "longitude": 73.02480601245753,
+        "latitude": 19.133607269573595,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98439960300456,
+          19.103359320715125
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_234",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 328,
+        "column": 59,
+        "x_utm": 287955.0,
+        "y_utm": 2113485.0,
+        "longitude": 72.98439960300456,
+        "latitude": 19.103359320715125,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9867552947253,
+          19.09715220818473
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_235",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 351,
+        "column": 67,
+        "x_utm": 288195.0,
+        "y_utm": 2112795.0,
+        "longitude": 72.9867552947253,
+        "latitude": 19.09715220818473,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9880100076298,
+          19.111257677212187
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_236",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 299,
+        "column": 72,
+        "x_utm": 288345.0,
+        "y_utm": 2114355.0,
+        "longitude": 72.9880100076298,
+        "latitude": 19.111257677212187,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00124821994484,
+          19.053408455058108
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_237",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 513,
+        "column": 116,
+        "x_utm": 289665.0,
+        "y_utm": 2107935.0,
+        "longitude": 73.00124821994484,
+        "latitude": 19.053408455058108,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02141071332571,
+          19.131402768454407
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_238",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 226,
+        "column": 190,
+        "x_utm": 291885.0,
+        "y_utm": 2116545.0,
+        "longitude": 73.02141071332571,
+        "latitude": 19.131402768454407,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9807073074951,
+          19.102234878803674
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_239",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 332,
+        "column": 46,
+        "x_utm": 287565.0,
+        "y_utm": 2113365.0,
+        "longitude": 72.9807073074951,
+        "latitude": 19.102234878803674,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99727189996077,
+          19.052281343434395
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_240",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 517,
+        "column": 102,
+        "x_utm": 289245.0,
+        "y_utm": 2107815.0,
+        "longitude": 72.99727189996077,
+        "latitude": 19.052281343434395,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98681756730751,
+          19.09200397675632
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_241",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 370,
+        "column": 67,
+        "x_utm": 288195.0,
+        "y_utm": 2112225.0,
+        "longitude": 72.98681756730751,
+        "latitude": 19.09200397675632,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9820984964163,
+          19.128536572845395
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_242",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 235,
+        "column": 52,
+        "x_utm": 287745.0,
+        "y_utm": 2116275.0,
+        "longitude": 72.9820984964163,
+        "latitude": 19.128536572845395,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00785590098702,
+          19.001176946332013
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_243",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 706,
+        "column": 137,
+        "x_utm": 290295.0,
+        "y_utm": 2102145.0,
+        "longitude": 73.00785590098702,
+        "latitude": 19.001176946332013,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0282367951792,
+          19.13283109795835
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_244",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 221,
+        "column": 214,
+        "x_utm": 292605.0,
+        "y_utm": 2116695.0,
+        "longitude": 73.0282367951792,
+        "latitude": 19.13283109795835,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98232876021684,
+          19.109569508311285
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_245",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 305,
+        "column": 52,
+        "x_utm": 287745.0,
+        "y_utm": 2114175.0,
+        "longitude": 72.98232876021684,
+        "latitude": 19.109569508311285,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98182442781065,
+          19.10414409024583
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_246",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 325,
+        "column": 50,
+        "x_utm": 287685.0,
+        "y_utm": 2113575.0,
+        "longitude": 72.98182442781065,
+        "latitude": 19.10414409024583,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98344687729632,
+          19.15836066954772
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_247",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 125,
+        "column": 58,
+        "x_utm": 287925.0,
+        "y_utm": 2119575.0,
+        "longitude": 72.98344687729632,
+        "latitude": 19.15836066954772,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00289345560802,
+          19.034998353889257
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_248",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 581,
+        "column": 121,
+        "x_utm": 289815.0,
+        "y_utm": 2105895.0,
+        "longitude": 73.00289345560802,
+        "latitude": 19.034998353889257,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00343738136428,
+          19.03717222857128
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_249",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 573,
+        "column": 123,
+        "x_utm": 289875.0,
+        "y_utm": 2106135.0,
+        "longitude": 73.00343738136428,
+        "latitude": 19.03717222857128,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98093842486134,
+          19.130149801006905
+        ]
+      },
+      "properties": {
+        "point_id": "NMMC_2004_4_250",
+        "year": 2004,
+        "mapped_class_code": 4,
+        "mapped_class_name": "Coastal Wetlands",
+        "row": 229,
+        "column": 48,
+        "x_utm": 287625.0,
+        "y_utm": 2116455.0,
+        "longitude": 72.98093842486134,
+        "latitude": 19.130149801006905,
+        "reference_class_code": null,
+        "reference_class_name": null,
+        "reference_source": null,
+        "interpretation_confidence": null,
+        "notes": null
+      }
+    }
+  ]
+}
